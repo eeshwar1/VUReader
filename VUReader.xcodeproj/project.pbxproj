@@ -9,19 +9,48 @@
 /* Begin PBXBuildFile section */
 		6500216C214750AF00C09569 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6500216B214750AF00C09569 /* AppDelegate.swift */; };
 		6500216E214750AF00C09569 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6500216D214750AF00C09569 /* ViewController.swift */; };
-		65002171214750AF00C09569 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6500216F214750AF00C09569 /* Main.storyboard */; };
 		65002173214750B000C09569 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65002172214750B000C09569 /* Assets.xcassets */; };
 		65002176214750B000C09569 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65002174214750B000C09569 /* LaunchScreen.storyboard */; };
+		6500218E2147510B00C09569 /* Feed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6500217D2147510900C09569 /* Feed.swift */; };
+		6500218F2147510B00C09569 /* FeedItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6500217E2147510900C09569 /* FeedItemTableViewCell.swift */; };
+		650021912147510B00C09569 /* AddFeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650021802147510900C09569 /* AddFeedViewController.swift */; };
+		650021922147510B00C09569 /* FeedItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650021812147510900C09569 /* FeedItemViewController.swift */; };
+		650021932147510B00C09569 /* SectionHeaderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650021822147510900C09569 /* SectionHeaderTableViewCell.swift */; };
+		650021942147510B00C09569 /* UIImage+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650021832147510900C09569 /* UIImage+Extensions.swift */; };
+		650021952147510B00C09569 /* FeedData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650021842147510A00C09569 /* FeedData.swift */; };
+		650021962147510B00C09569 /* Feeds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 650021852147510A00C09569 /* Feeds.plist */; };
+		650021972147510B00C09569 /* FeedDataItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650021862147510A00C09569 /* FeedDataItem.swift */; };
+		650021992147510B00C09569 /* FeedListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 650021882147510A00C09569 /* FeedListViewController.swift */; };
+		6500219B2147510B00C09569 /* String+HTML.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6500218A2147510A00C09569 /* String+HTML.swift */; };
+		6500219C2147510B00C09569 /* FeedListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6500218B2147510B00C09569 /* FeedListTableViewCell.swift */; };
+		6500219D2147510B00C09569 /* FeedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6500218C2147510B00C09569 /* FeedList.swift */; };
+		6500219E2147510B00C09569 /* FeedTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6500218D2147510B00C09569 /* FeedTableViewController.swift */; };
+		650021A02147511600C09569 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6500219F2147511600C09569 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		65002168214750AF00C09569 /* VUReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VUReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6500216B214750AF00C09569 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6500216D214750AF00C09569 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		65002170214750AF00C09569 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		65002172214750B000C09569 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65002175214750B000C09569 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		65002177214750B000C09569 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6500217D2147510900C09569 /* Feed.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Feed.swift; sourceTree = "<group>"; };
+		6500217E2147510900C09569 /* FeedItemTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedItemTableViewCell.swift; sourceTree = "<group>"; };
+		650021802147510900C09569 /* AddFeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddFeedViewController.swift; sourceTree = "<group>"; };
+		650021812147510900C09569 /* FeedItemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedItemViewController.swift; sourceTree = "<group>"; };
+		650021822147510900C09569 /* SectionHeaderTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SectionHeaderTableViewCell.swift; sourceTree = "<group>"; };
+		650021832147510900C09569 /* UIImage+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extensions.swift"; sourceTree = "<group>"; };
+		650021842147510A00C09569 /* FeedData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedData.swift; sourceTree = "<group>"; };
+		650021852147510A00C09569 /* Feeds.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Feeds.plist; sourceTree = "<group>"; };
+		650021862147510A00C09569 /* FeedDataItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedDataItem.swift; sourceTree = "<group>"; };
+		650021882147510A00C09569 /* FeedListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedListViewController.swift; sourceTree = "<group>"; };
+		6500218A2147510A00C09569 /* String+HTML.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+HTML.swift"; sourceTree = "<group>"; };
+		6500218B2147510B00C09569 /* FeedListTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedListTableViewCell.swift; sourceTree = "<group>"; };
+		6500218C2147510B00C09569 /* FeedList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedList.swift; sourceTree = "<group>"; };
+		6500218D2147510B00C09569 /* FeedTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedTableViewController.swift; sourceTree = "<group>"; };
+		6500219F2147511600C09569 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		650021A12147533100C09569 /* VUReader.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = VUReader.entitlements; sourceTree = "<group>"; };
+		650021A2214762DC00C09569 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +83,69 @@
 		6500216A214750AF00C09569 /* VUReader */ = {
 			isa = PBXGroup;
 			children = (
+				65FA7BF72149DF9A009CEA75 /* Storyboards */,
+				65FA7BF62149DF3C009CEA75 /* Common */,
+				65FA7BF52149DF12009CEA75 /* Views */,
+				65FA7BF42149DEF9009CEA75 /* Model */,
+				65FA7BF32149DED8009CEA75 /* Controllers */,
+				650021A12147533100C09569 /* VUReader.entitlements */,
+				650021A2214762DC00C09569 /* Info.plist */,
 				6500216B214750AF00C09569 /* AppDelegate.swift */,
-				6500216D214750AF00C09569 /* ViewController.swift */,
-				6500216F214750AF00C09569 /* Main.storyboard */,
+				650021852147510A00C09569 /* Feeds.plist */,
 				65002172214750B000C09569 /* Assets.xcassets */,
-				65002174214750B000C09569 /* LaunchScreen.storyboard */,
-				65002177214750B000C09569 /* Info.plist */,
 			);
 			path = VUReader;
+			sourceTree = "<group>";
+		};
+		65FA7BF32149DED8009CEA75 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				6500216D214750AF00C09569 /* ViewController.swift */,
+				650021812147510900C09569 /* FeedItemViewController.swift */,
+				650021882147510A00C09569 /* FeedListViewController.swift */,
+				6500218D2147510B00C09569 /* FeedTableViewController.swift */,
+				650021802147510900C09569 /* AddFeedViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		65FA7BF42149DEF9009CEA75 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6500217D2147510900C09569 /* Feed.swift */,
+				650021842147510A00C09569 /* FeedData.swift */,
+				6500218C2147510B00C09569 /* FeedList.swift */,
+				650021862147510A00C09569 /* FeedDataItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		65FA7BF52149DF12009CEA75 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6500217E2147510900C09569 /* FeedItemTableViewCell.swift */,
+				6500218B2147510B00C09569 /* FeedListTableViewCell.swift */,
+				650021822147510900C09569 /* SectionHeaderTableViewCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		65FA7BF62149DF3C009CEA75 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				6500218A2147510A00C09569 /* String+HTML.swift */,
+				650021832147510900C09569 /* UIImage+Extensions.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		65FA7BF72149DF9A009CEA75 /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				65002174214750B000C09569 /* LaunchScreen.storyboard */,
+				6500219F2147511600C09569 /* Main.storyboard */,
+			);
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +180,11 @@
 				TargetAttributes = {
 					65002167214750AF00C09569 = {
 						CreatedOnToolsVersion = 10.0;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -122,9 +211,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				650021A02147511600C09569 /* Main.storyboard in Resources */,
 				65002176214750B000C09569 /* LaunchScreen.storyboard in Resources */,
+				650021962147510B00C09569 /* Feeds.plist in Resources */,
 				65002173214750B000C09569 /* Assets.xcassets in Resources */,
-				65002171214750AF00C09569 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,22 +225,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				650021932147510B00C09569 /* SectionHeaderTableViewCell.swift in Sources */,
+				6500218F2147510B00C09569 /* FeedItemTableViewCell.swift in Sources */,
+				6500219E2147510B00C09569 /* FeedTableViewController.swift in Sources */,
+				650021972147510B00C09569 /* FeedDataItem.swift in Sources */,
+				6500219B2147510B00C09569 /* String+HTML.swift in Sources */,
 				6500216E214750AF00C09569 /* ViewController.swift in Sources */,
+				650021912147510B00C09569 /* AddFeedViewController.swift in Sources */,
+				650021992147510B00C09569 /* FeedListViewController.swift in Sources */,
+				650021922147510B00C09569 /* FeedItemViewController.swift in Sources */,
+				6500218E2147510B00C09569 /* Feed.swift in Sources */,
+				650021952147510B00C09569 /* FeedData.swift in Sources */,
 				6500216C214750AF00C09569 /* AppDelegate.swift in Sources */,
+				650021942147510B00C09569 /* UIImage+Extensions.swift in Sources */,
+				6500219D2147510B00C09569 /* FeedList.swift in Sources */,
+				6500219C2147510B00C09569 /* FeedListTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		6500216F214750AF00C09569 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				65002170214750AF00C09569 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		65002174214750B000C09569 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -282,9 +377,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = VUReader/VUReader.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 74757A785Z;
 				INFOPLIST_FILE = VUReader/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,9 +397,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = VUReader/VUReader.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 74757A785Z;
 				INFOPLIST_FILE = VUReader/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

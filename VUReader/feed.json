@@ -1,0 +1,584 @@
+{
+   "version" : "https://jsonfeed.org/version/1",
+   "title" : "Daring Fireball",
+   "home_page_url" : "https://daringfireball.net/",
+   "feed_url" : "https://daringfireball.net/feeds/json",
+   "author" : {
+      "url" : "https://twitter.com/gruber",
+      "name" : "John Gruber"
+   },
+   "icon" : "https://daringfireball.net/graphics/apple-touch-icon.png",
+   "favicon" : "https://daringfireball.net/graphics/favicon-64.png",
+   "items" : [
+      {
+         "title" : "Predicting the Date of Apple’s September Event",
+         "date_published" : "2018-08-17T23:00:23Z",
+         "date_modified" : "2018-08-17T23:00:24Z",
+         "id" : "https://daringfireball.net/linked/2018/08/17/apple-event-prediction",
+         "url" : "https://daringfireball.net/linked/2018/08/17/apple-event-prediction",
+         "external_url" : "https://www.imore.com/iphone-2018-event-preview",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Rene Ritchie, writing at iMore:</p>\n\n<blockquote>\n  <p>This is basically the best worst kept secret in technology. Best,\nbecause Apple never tells anyone. Worst, because, since iPhone 5,\nApple has announced every new iPhone during a special event held\nthe first or second Tuesday or Wednesday of September. [&#8230;]</p>\n\n<p>Now, past isn&#8217;t always predicate, but past events are the best\nindicator for future events. Apple can and will throw curveballs\nwhenever the company&#8217;s logistics or strategy demands.</p>\n\n<p>Still, based on the above pattern, it&#8217;s likely we&#8217;ll see this\nyear&#8217;s event on or around Wednesday, September 12.</p>\n\n<p>Why? The first Tuesday of September is the 4th, and that&#8217;s far\nearlier than Apple has held the event before. The second Tuesday\nis the 11th, and September 11 is akin to a memorial day. That\nleaves Wednesday the 13th or Thursday the 14th as the dates that\nbest fit the current pattern.</p>\n</blockquote>\n\n<p>I have no inside information on this, but September 12 is <a href=\"https://twitter.com/gruber/status/1029085986171568129\">definitely my guess</a>, for all the same reasons Ritchie mentions. Since moving iPhone intro events to September in 2012 with the iPhone 5, they&#8217;ve had three events on Tuesdays and three on Wednesdays. For whatever reason, I don&#8217;t think they like Thursdays.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.imore.com/iphone-2018-event-preview\">imore.com/iphone-2018-event-preview</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Google Employees Are Organizing to Protest ‘Dragonfly’",
+         "date_published" : "2018-08-17T22:53:40Z",
+         "date_modified" : "2018-08-17T22:53:41Z",
+         "id" : "https://daringfireball.net/linked/2018/08/17/google-search-protest",
+         "url" : "https://daringfireball.net/linked/2018/08/17/google-search-protest",
+         "external_url" : "https://www.buzzfeednews.com/article/carolineodonovan/google-dragonfly-maven-employee-protest-demands",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>One last piece in today&#8217;s Dragonfly trifecta, this one from Carolin O&#8217;Donovan for BuzzFeed:</p>\n\n<blockquote>\n  <p>Google employees are demanding greater transparency from their\nemployer and confronting management with their ethical concerns\nabout a project named Dragonfly, a controversial censored search\napp for the Chinese market.</p>\n\n<p>Employees are circulating a list of demands for the company in a\nletter obtained by BuzzFeed News (posted in full, below), calling\nfor an ethics review structure with rank-and-file employee\nrepresentatives, the appointment of ombudspeople, and an ethical\nassessment of Google projects including Dragonfly and Maven,\nGoogle’s contract with the Pentagon to build AI-assisted drone\ntechnology.</p>\n\n<p>“Many of us believe that Dragonfly poses a threat to freedom of\nexpression and political dissent globally, and violates our AI\nprinciples,&#8221; two employees wrote in an email distributing the\ndemand list.</p>\n</blockquote>\n\n<p>I do see their point: Google&#8217;s current stance on China does give the company a certain moral high ground which they would cede if they go forward with Dragonfly. But as with Apple and the App Store in China, I ask this: if you lived in China, would you rather have access to a censored Google web search, or no access to Google search at all? I would prefer to have the censored Google search.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.buzzfeednews.com/article/carolineodonovan/google-dragonfly-maven-employee-protest-demands\">buzzfeednews.com/article/carolineodonovan/google-dragonfly…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "‘Dragonfly’",
+         "date_published" : "2018-08-17T21:55:49Z",
+         "date_modified" : "2018-08-17T21:56:13Z",
+         "id" : "https://daringfireball.net/linked/2018/08/17/dragonfly",
+         "url" : "https://daringfireball.net/linked/2018/08/17/dragonfly",
+         "external_url" : "https://notes.rjgallagher.co.uk/2018/08/google-china-dragonfly-sergey-brin-yacht.html",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Ryan Gallagher, writing this week:</p>\n\n<blockquote>\n  <p>Google co-founder Sergey Brin is the owner of what is reportedly\none of the world’s fastest motor yachts. The luxurious 240-foot\nboat (pictured below) is worth $80 million and has nine cabins\nand space for 18 guests and 16 crew. It has an open-air cinema, a\nbar, and a jacuzzi on the sundeck, which can be converted into a\ndance floor.</p>\n\n<p>But that is all less interesting to me than the boat’s name:\nDragonfly. As I <a href=\"https://theintercept.com/2018/08/01/google-china-search-engine-censorship/\">reported for The Intercept</a> earlier this\nmonth, Google has since spring 2017 been working on a secretive\nproject to launch a censored search engine in China. And the\ninternal code-name for the China project is… Dragonfly.</p>\n\n<p>I’ll explain why this small detail is very curious.</p>\n\n<p>Back in 2006, Google launched a censored search engine in China.\nBut four years later, in March 2010, it pulled the service out of\nthe country, citing Chinese government efforts to limit free\nspeech, block websites, and hack Google’s computer systems.</p>\n\n<p>At that time, Sergey Brin was one of the main forces inside Google\narguing that the company should not be complicit in Chinese\ngovernment censorship. As a child, he had spent six years with his\nfamily in the Soviet Union, and he was all too familiar with state\nrepression.</p>\n</blockquote>\n\n<p>Even stranger: Gallagher reports that at an employee all-hands meeting to address this controversial project, <a href=\"https://twitter.com/rj_gallagher/status/1030397190894702592\">Brin said he wasn&#8217;t aware of the project until The Intercept broke the story</a>. So it&#8217;s either an amazing coincidence, or whoever named the project was trolling Brin. Google seems like a weird place.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://notes.rjgallagher.co.uk/2018/08/google-china-dragonfly-sergey-brin-yacht.html\">notes.rjgallagher.co.uk/2018/08/google-china-dragonfly…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Google Plans to Launch Censored Search Engine in China",
+         "date_published" : "2018-08-17T21:46:09Z",
+         "date_modified" : "2018-08-17T21:46:10Z",
+         "id" : "https://daringfireball.net/linked/2018/08/17/google-search-china",
+         "url" : "https://daringfireball.net/linked/2018/08/17/google-search-china",
+         "external_url" : "https://theintercept.com/2018/08/01/google-china-search-engine-censorship/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Ryan Gallagher, reporting earlier this month for The Intercept:</p>\n\n<blockquote>\n  <p>Documents seen by The Intercept, marked “Google confidential,” say\nthat Google’s Chinese search app will automatically identify and\nfilter websites blocked by the Great Firewall. When a person\ncarries out a search, banned websites will be removed from the\nfirst page of results, and a disclaimer will be displayed stating\nthat “some results may have been removed due to statutory\nrequirements.” Examples cited in the documents of websites that\nwill be subject to the censorship include those of British news\nbroadcaster BBC and the online encyclopedia Wikipedia.</p>\n\n<p>The search app will also “blacklist sensitive queries” so that “no\nresults will be shown” at all when people enter certain words or\nphrases, the documents state. The censorship will apply across the\nplatform: Google’s image search, automatic spell check and\nsuggested search features will incorporate the blacklists, meaning\nthat they will not recommend people information or photographs the\ngovernment has banned.</p>\n</blockquote>\n\n<p>I&#8217;m going to take a contrarian view here &#8212; I&#8217;m not sure this is a bad or objectionable idea. How is a search engine that complies with China&#8217;s censorship laws any different than <a href=\"https://daringfireball.net/2017/07/apple_china_vpn_apps\">an app store that does</a>? My only quibble is that the search results should state plainly whether the results have been censored &#8212; none of this &#8220;may have been removed&#8221; stuff.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://theintercept.com/2018/08/01/google-china-search-engine-censorship/\">theintercept.com/2018/08/01/google-china-search-engine…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Jonathan Mann’s Song of the Day: ‘Jack Says Fuck You to Tweetbot’",
+         "date_published" : "2018-08-17T21:14:18Z",
+         "date_modified" : "2018-08-17T21:14:19Z",
+         "id" : "https://daringfireball.net/linked/2018/08/17/mann-jack-fuck-you",
+         "url" : "https://daringfireball.net/linked/2018/08/17/mann-jack-fuck-you",
+         "external_url" : "https://twitter.com/songadaymann/status/1030541270782029826",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>I don&#8217;t expect to see this one played at Twitter&#8217;s next press <a href=\"https://www.youtube.com/watch?v=VKIcaejkpD4\">event</a>.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://twitter.com/songadaymann/status/1030541270782029826\">twitter.com/songadaymann/status/1030541270782029826</a></strong></em></p>\n"
+      },
+      {
+         "title" : "[Sponsor] UpHabit",
+         "date_published" : "2018-08-17T11:31:39-04:00",
+         "date_modified" : "2018-08-17T11:31:43-04:00",
+         "id" : "https://daringfireball.net/feeds/sponsors/2018/08/uphabit",
+         "url" : "https://daringfireball.net/feeds/sponsors/2018/08/uphabit",
+         "external_url" : "https://www.uphabit.com/",
+         "author" : {
+            "name" : "Daring Fireball Department of Commerce"
+         },
+         "content_html" : "\n<p>UpHabit is about relationship management made simple. They’re a mobile-only personal CRM made just for you. You can set regular reminders, remember the little things and keep in touch with the people you care about most. They’d love you to sign up for their iOS beta starting August 21st (with the App Store release planned for October 2018).</p>\n\n<p>When out of beta, UpHabit will be a subscription app with a free tier, and of course the beta is completely free. Your data is private. They care deeply about that.</p>\n\n<p>UpHabit would love you to join them in their journey to help you develop deeper and more authentic high-quality relationships. Sign up for the beta now!</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.uphabit.com/\">uphabit.com/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "★ Twitter Addresses Why They’ve Broken Twitter for Third-Party Clients",
+         "date_published" : "2018-08-16T19:29:26Z",
+         "date_modified" : "2018-08-17T18:12:09Z",
+         "id" : "https://daringfireball.net/2018/08/twitter_third_party_clients",
+         "url" : "https://daringfireball.net/2018/08/twitter_third_party_clients",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Good piece by Sarah Perez at TechCrunch <a href=\"https://techcrunch.com/2018/08/16/twitter-company-email-addresses-why-its-breakingmytwitter/\">regarding a Twitter internal email on why they&#8217;ve broken significant functionality for third-party clients</a>:</p>\n\n<blockquote>\n  <p>And Twitter wonders why users don’t want to use its own clients?</p>\n\n<p>Perhaps, users want a consistent experience &#8212; one that doesn’t\ninvolve a million inconsequential product changes like turning\nstars to hearts or changing the character counter to a circle.\nMaybe they appreciate the fact that the third parties seem to\nunderstand what Twitter is better than Twitter itself does:\nTwitter has always been about a <em>real-time stream of information</em>.\nIt’s not meant to be another Facebook-style algorithmic News Feed.\nThe third-party clients respect that. Twitter does not.</p>\n</blockquote>\n\n<p><a href=\"https://twitter.com/robjohnson/status/1030122332243734528\">Twitter executive Rob Johnson</a>:</p>\n\n<blockquote>\n  <p>We’ve heard feedback (<a href=\"https://twitter.com/hashtag/BreakingMyTwitter\">#breakingmytwitter</a>) from our customers about\nthe pain this causes. We’re committed to understanding why people\nhire 3rd party clients over our own apps, and we’re going to do\nbetter with communicating changes.</p>\n</blockquote>\n\n<p>My strong preference for Tweetbot, on both iOS and Mac, is simple: I prefer its user interface. </p>\n\n<p>Tweetbot presents tweets and replies/mentions in a way that fits my mental model of what Twitter is. Tweetbot makes sense to me &#8212; in large part simply because it presents tweets in chronological order. Twitter&#8217;s iOS app does none of these things for me. I truly find it confusing. And Twitter <a href=\"https://twitter.com/jack/status/964705743365484544\">no longer even fucking <em>has</em> a first-party native app for the Mac</a>. I don&#8217;t want to use a website for Twitter. I want an app.</p>\n\n<p>I think Twitter should reverse course on this whole thing. Replace the now-deprecated third-party client APIs with new ones, let third-party clients flourish, and figure out a way to make money from them. Require third-party clients to show ads. Or require users who prefer third-party clients to pay some sort of fee. I already happily pay for Tweetbot; I&#8217;d also happily pay Twitter for the privilege of using it. I am convinced there are ways Twitter could make money from people using third-party clients. I am equally convinced that there&#8217;s no way Twitter can make one interface that pleases all of its users.</p>\n\n<p>Twitter cutting off third-party clients is as foolish and wrongheaded as it would be if Apple cut off third-party iOS apps for maps, email, calendar, notes, podcasts, music, etc. iOS is a platform and Apple has default apps for all those things, and most iOS users stick with those defaults. Twitter should look at itself as a platform in the same way. As it stands, they&#8217;re chasing influential users away.</p>\n\n<p><strong>Update:</strong> Something I only noticed after having made the above analogy: when Rob Johnson shared his email this morning about Twitter and third-party clients, he did so by tweeting two screenshots of the message. <a href=\"https://twitter.com/robjohnson/status/1030122316875747328\">Those screenshots show he uses a third-party email client on his iPhone</a>. So my simple argument to Johnson is this: I prefer a third-party Twitter client for the same reason you prefer a third-party iOS email client. One size doesn&#8217;t fit all.</p>\n\n\n\n    "
+      },
+      {
+         "title" : "‘The Oldest Trick in the Book’",
+         "date_published" : "2018-08-16T16:51:33Z",
+         "date_modified" : "2018-08-16T19:34:09Z",
+         "id" : "https://daringfireball.net/linked/2018/08/16/teller-red-ball-trick",
+         "url" : "https://daringfireball.net/linked/2018/08/16/teller-red-ball-trick",
+         "external_url" : "https://www.thisamericanlife.org/619/the-magic-show",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p><a href=\"https://daringfireball.net/linked/2018/08/14/penn\">Speaking of Penn and Teller</a>, there&#8217;s a fantastic episode of This American Life on which Teller &#8212; the half of the duo who usually <em>doesn&#8217;t</em> speak &#8212; explains how he created one of his signature routines. Well worth listening to.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.thisamericanlife.org/619/the-magic-show\">thisamericanlife.org/619/the-magic-show</a></strong></em></p>\n"
+      },
+      {
+         "title" : "S.E.C. Is Said to Subpoena Tesla After Elon Musk’s Take-Private Tweet",
+         "date_published" : "2018-08-15T21:36:56Z",
+         "date_modified" : "2018-08-16T20:41:00Z",
+         "id" : "https://daringfireball.net/linked/2018/08/15/sec-musk",
+         "url" : "https://daringfireball.net/linked/2018/08/15/sec-musk",
+         "external_url" : "https://www.nytimes.com/2018/08/15/business/tesla-musk-sec-subpoena-goldman.html",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>The New York Times:</p>\n\n<blockquote>\n  <p>Federal securities regulators have served Tesla with a subpoena,\naccording to a person familiar with the investigation, increasing\npressure on the electric car company as it deals with the fallout\nfrom several recent actions by its chief executive, Elon Musk.</p>\n\n<p>The subpoena, from the Securities and Exchange Commission, comes\ndays after regulators began inquiring about an Aug. 7 Twitter post\nby Mr. Musk, in which he said he was considering converting Tesla\nto a private company. In the post, he said that the financing for\nsuch a transaction, which would probably run into the tens of\nbillions of dollars, had been “secured.” [&#8230;]</p>\n\n<p>It has become clear since then that neither Mr. Musk nor Tesla had\nactually lined up the necessary financing aside from having\npreliminary conversations with some investors.</p>\n</blockquote>\n\n<p>Maybe nothing will ultimately come of this, I don&#8217;t know. But Musk has gotten himself in serious trouble with his impulsive tweet.</p>\n\n<p><a href=\"https://daringfireball.net/linked/2018/08/13/musk-tesla-private\">When I linked to a Business Insider story</a> about this a few days ago, a bunch of readers emailed to complain that the reporter behind that piece, Linette Lopez, is biased against Tesla and on the side of Tesla short-sellers. Others emailed to ask why I&#8217;m &#8220;against&#8221; Tesla.</p>\n\n<p>I&#8217;m not against Tesla. I think they&#8217;re an amazing and fascinating company and their cars are outstanding and quite possibly without peer. Even if we concede for the sake of argument that Lopez is biased on the side of Tesla short-sellers, that doesn&#8217;t mean her report on this story was wrong. All of this can be true: Tesla has great technology and makes great cars, the company may have a bright future, and Elon Musk is a visionary. But all of that can be true <em>and</em> Musk may have committed securities fraud by tweeting that he&#8217;d secured funding to take the company private when he had done no such thing.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.nytimes.com/2018/08/15/business/tesla-musk-sec-subpoena-goldman.html\">nytimes.com/2018/08/15/business/tesla-musk-sec-subpoena…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "DF Weekly Sponsorship Changes",
+         "date_published" : "2018-08-15T21:05:00Z",
+         "date_modified" : "2018-08-15T21:37:12Z",
+         "id" : "https://daringfireball.net/linked/2018/08/15/df-weekly-sponsorship-changes",
+         "url" : "https://daringfireball.net/linked/2018/08/15/df-weekly-sponsorship-changes",
+         "external_url" : "https://daringfireball.net/feeds/sponsors/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Let&#8217;s try something new with the DF weekly sponsorship. Instead of just the RSS feed, I&#8217;m going to include the display ad on the DF website with the sponsorship. Still just one sponsor for the week, but now it includes the RSS feed, the weekly thank-you post from yours truly, <em>and</em> the exclusive display ad in the left column of every page on the site.</p>\n\n<p>This current week remains open (let&#8217;s make a deal), next week is open, and most of September is open. If you&#8217;ve got a product or service you&#8217;d like to promote to Daring Fireball&#8217;s excellent readership, get in touch.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://daringfireball.net/feeds/sponsors/\">daringfireball.net/feeds/sponsors/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Motorola P30 Is a Pure iPhone X Rip-Off",
+         "date_published" : "2018-08-15T20:56:18Z",
+         "date_modified" : "2018-08-15T20:56:19Z",
+         "id" : "https://daringfireball.net/linked/2018/08/15/moto-ripoff",
+         "url" : "https://daringfireball.net/linked/2018/08/15/moto-ripoff",
+         "external_url" : "https://www.androidpure.com/exclusive-motorola-p30-renders-specifications/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>They even ripped off the default wallpaper. Do &#8220;designers&#8221; at Motorola even list the job on their resumes or do they work in anonymous shame?</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.androidpure.com/exclusive-motorola-p30-renders-specifications/\">androidpure.com/exclusive-motorola-p30-renders…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple Is Privately Encouraging Paid App Developers to Move to Subscriptions",
+         "date_published" : "2018-08-14T21:26:05Z",
+         "date_modified" : "2018-08-15T21:23:26Z",
+         "id" : "https://daringfireball.net/linked/2018/08/14/apple-subscriptions",
+         "url" : "https://daringfireball.net/linked/2018/08/14/apple-subscriptions",
+         "external_url" : "https://www.thisisinsider.com/apple-secret-meeting-developers-new-york-subscriptions-app-store-2018-7",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Interesting story by Kif Leswing for Business Insider, regarding a private meeting Apple held with indie developers in New York last year:</p>\n\n<blockquote>\n  <p>The new way Apple wanted to promote: Instead of users paying for\napps once, they&#8217;d pay on a regular basis, putting money into\ndeveloper coffers on a regular schedule. Apple would still get a\n30% cut of the subscription&#8217;s cost, but if a customer continued to\nsubscribe after a year, Apple&#8217;s cut would go down to 15%.</p>\n\n<p>At the meeting, Apple underscored that the app model was changing.\nThe meeting touched on topics including launching, customer\nacquisition, testing and marketing, engagement, retention,\nmonetization, and paid search ads.</p>\n\n<p>An Apple representative said at the meeting that paid apps\nrepresent 15% of total app sales and is on the decline, according\nto a person who was there who did not want to be identified to\nmaintain their relationship with Apple.</p>\n</blockquote>\n\n<p>Up front paid apps are going the way of the dodo. Whether you think that&#8217;s good or bad, it doesn&#8217;t matter. That&#8217;s where things are going.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.thisisinsider.com/apple-secret-meeting-developers-new-york-subscriptions-app-store-2018-7\">thisisinsider.com/apple-secret-meeting-developers-new-york…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Penn Jillette, in Conversation",
+         "date_published" : "2018-08-14T20:23:49Z",
+         "date_modified" : "2018-08-14T20:23:51Z",
+         "id" : "https://daringfireball.net/linked/2018/08/14/penn",
+         "url" : "https://daringfireball.net/linked/2018/08/14/penn",
+         "external_url" : "http://www.vulture.com/2018/08/penn-jillette-in-conversation.html",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Penn Jillette, in a terrific interview with David Marchese for Vulture:</p>\n\n<blockquote>\n  <p>Q: But <em>why</em> is the audience willing to get emotionally engaged\n   even after you’ve explicitly said the trick is done with\n   thread?</p>\n\n<p>A: It’s because there’s a secret that I would like to take credit\n   for uncovering: The audience is smart. That’s all. Our goal\n   when we started was “Let’s do a magic show for people smarter\n   than us.” No other magicians have ever said that sentence. I\n   hated the whole idea that some smarmy motherfucker who couldn’t\n   get laid was out there saying, “I can do this; you can’t.” So\n   when Teller and I first got together I said, “I want to do a\n   magic show that’s honest and has complete respect for the\n   audience.” And when you start being honest with the audience,\n   they start to play a game within themselves. Here’s an example\n   that kills me: People who have <em>just talked</em> to Teller will come\n   over to me after the show and say, “I think it’s great that\n   Teller never says anything.” Internalizing a counterfactual is\n   just something people can do.</p>\n</blockquote>\n\n<p>I absolutely love Penn and Teller. I&#8217;ve seen their show in Vegas at least four times, maybe five, and I never tire of it because it&#8217;s exactly what he says it is. Honest and respectful of the audience&#8217;s intelligence. And damn entertaining.</p>\n\n<p>(A few years ago, I was chosen from the audience by Teller to go on stage for a trick in which they made my iPhone disappear. It wound up inside a plastic bag inside a dead fish inside an ice box under an audience member&#8217;s seat.)</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"http://www.vulture.com/2018/08/penn-jillette-in-conversation.html\">vulture.com/2018/08/penn-jillette-in-conversation.html</a></strong></em></p>\n"
+      },
+      {
+         "title" : "‘Bribes, Backdoor Deals, and Pay to Play: How Bad Rosé Took Over’",
+         "date_published" : "2018-08-14T16:21:28Z",
+         "date_modified" : "2018-08-14T16:25:28Z",
+         "id" : "https://daringfireball.net/linked/2018/08/14/rose-racket",
+         "url" : "https://daringfireball.net/linked/2018/08/14/rose-racket",
+         "external_url" : "https://www.bonappetit.com/story/rise-of-bad-rose",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Victoria James, writing for Bon Appétit:</p>\n\n<blockquote>\n  <p>My introduction to pay to play occurred after I’d just published\n<a href=\"https://www.amazon.com/Drink-Pink-Celebration-Victoria-James/dp/0062676202/?tag=bonappfig-20\">a book on rosé</a>. I was approached by one of the top three rosé\nbrands. They were looking to partner with me and Piora, the\nsince-closed Michelin-starred restaurant where I was the wine\ndirector. A few emails were sent before the in-person shakedown.\nAt the tiny restaurant, I was bombarded with drop-ins from these\nreps trying to strong-arm me into representing their brand. The\ndeal was that they would give me a couple thousand in cash to be\nan ambassador, and I would have to buy their rosé to pour by the\nglass for the summer. If I needed to make better margins, like\nmaking $10 off a glass of rosé versus making $5 off a glass of\nrosé, they also offered to drive by and drop off a couple of cases\nof free product. Horrified, I turned down the deal.</p>\n\n<p>Sommeliers around New York have told me they’ve been offered\nincentives from big brands too. Wineries will come into the\nrestaurant and swipe their credit cards, theoretically expensing\na meal. In reality, the swipe is a bonus, with no meal actually\ntaking place. Other sommeliers mentioned that brands will drop\noff a free case of wine or offer to supplement the somm’s income\nwith funds from their bosses. Someone even called it\n“mafia-style shit”.</p>\n</blockquote>\n\n<p>I had no idea until a few weeks ago just how popular rosé has become. What a racket &#8212; and unsurprising that the stuff the big brands are pushing is mediocre at best.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.bonappetit.com/story/rise-of-bad-rose\">bonappetit.com/story/rise-of-bad-rose</a></strong></em></p>\n"
+      },
+      {
+         "title" : "New Samsung Galaxy Watches Are Still Much Larger Than Apple Watches",
+         "date_published" : "2018-08-13T22:35:16Z",
+         "date_modified" : "2018-08-13T22:35:18Z",
+         "id" : "https://daringfireball.net/linked/2018/08/13/samsung-galaxy-watches",
+         "url" : "https://daringfireball.net/linked/2018/08/13/samsung-galaxy-watches",
+         "external_url" : "https://www.engadget.com/amp/2018/08/09/samsung-galaxy-watch-hands-on/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Samsung is sticking with round faces &#8212; you certainly can&#8217;t call these ripoffs of Apple Watch. But I think that&#8217;s a mistake for a digital watch. At 42 and 46mm, both sizes are much larger (and heavier) than Apple Watches. Because Apple measures its watches vertically, they sound closer in size than they actually are. A 42mm Apple Watch is 36mm wide, and a 38mm Apple Watch is just 33mm wide. <a href=\"https://daringfireball.net/linked/2017/10/16/caldwell-smartwatches-women\">Apple remains the only company making smartwatches for women and men with small wrists</a>.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.engadget.com/amp/2018/08/09/samsung-galaxy-watch-hands-on/\">engadget.com/amp/2018/08/09/samsung-galaxy-watch-hands-on/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Funding Not Secured: Musk’s Explanations About Taking Tesla Private Do Not Work",
+         "date_published" : "2018-08-13T21:09:44Z",
+         "date_modified" : "2018-08-14T15:38:56Z",
+         "id" : "https://daringfireball.net/linked/2018/08/13/musk-tesla-private",
+         "url" : "https://daringfireball.net/linked/2018/08/13/musk-tesla-private",
+         "external_url" : "https://www.businessinsider.com/funding-not-secured-musks-explanations-about-taking-tesla-private-does-not-work-2018-8",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Linette Lopez, writing for Business Insider:</p>\n\n<blockquote>\n  <p><a href=\"https://www.tesla.com/blog/update-taking-tesla-private\">Elon Musk has written a blog post</a> explaining why he said last week\non Twitter that he might take Tesla private at $420 a share.\n&#8220;Funding secured,&#8221; he declared in the tweet.</p>\n\n<p>But after reading Musk&#8217;s new post, the only conclusion to be drawn\nis that funding was, in fact, not secured. And that could spell\nserious trouble for Musk.</p>\n</blockquote>\n\n<p>Isn&#8217;t it abundantly clear that Musk&#8217;s tweet was reckless, and the last week has been Musk and Tesla&#8217;s board of directors desperately trying to do damage control? </p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.businessinsider.com/funding-not-secured-musks-explanations-about-taking-tesla-private-does-not-work-2018-8\">businessinsider.com/funding-not-secured-musks-explanations…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple Removes Group FaceTime From iOS 12 and MacOS 10.14 Mojave Betas, Says It’ll Launch Later This Year",
+         "date_published" : "2018-08-13T20:29:01Z",
+         "date_modified" : "2018-08-13T20:45:51Z",
+         "id" : "https://daringfireball.net/linked/2018/08/13/group-facetime-delayed",
+         "url" : "https://daringfireball.net/linked/2018/08/13/group-facetime-delayed",
+         "external_url" : "https://www.macrumors.com/2018/08/13/group-facetime-removed-ios-12-and-macos-mojave/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Juli Clover, reporting for MacRumors:</p>\n\n<blockquote>\n  <p>In release notes for both macOS Mojave and iOS 12, Apple says the\nfeature has been removed from the initial releases of macOS\nMojave and iOS 12 and &#8220;will ship in a future software update\nlater this fall.&#8221;</p>\n\n<p>With the release of iOS 11, Apple also ended up delaying several\nfeatures that were initially announced as part of the update until\nlater in the year, including Apple Pay Cash, AirPlay 2, and\nMessages in iCloud, three significant iOS 11 features that did not\ncome out until months after iOS 11 launched.</p>\n</blockquote>\n\n<p>Right about now is the time when Apple needs to cut any features that won&#8217;t be ready in time for <a href=\"https://twitter.com/gruber/status/1029085986171568129\">the iPhone launch next month</a>. These delays are disappointing, yes, but I actually prefer this policy of holding off on new features until they&#8217;re ready rather than shipping them in a buggy state just because it&#8217;s September and time for new iPhones to be released.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.macrumors.com/2018/08/13/group-facetime-removed-ios-12-and-macos-mojave/\">macrumors.com/2018/08/13/group-facetime-removed-ios-12-and…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "‘But the Plans Were on Display…’",
+         "date_published" : "2018-08-13T18:56:13Z",
+         "date_modified" : "2018-08-15T18:38:05Z",
+         "id" : "https://daringfireball.net/linked/2018/08/13/douglas-adams-plans",
+         "url" : "https://daringfireball.net/linked/2018/08/13/douglas-adams-plans",
+         "external_url" : "https://www.goodreads.com/quotes/40705-but-the-plans-were-on-display-on-display-i-eventually",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>From Douglas Adams&#8217;s <em>Hitchhiker&#8217;s Guide to the Galaxy</em>:</p>\n\n<blockquote>\n  <p>“But the plans were on display…”</p>\n\n<p>“On display? I eventually had to go down to the cellar to\nfind them.”</p>\n\n<p>“That’s the display department.”</p>\n\n<p>“With a flashlight.”</p>\n\n<p>“Ah, well, the lights had probably gone.”</p>\n\n<p>“So had the stairs.”</p>\n\n<p>“But look, you found the notice, didn’t you?”</p>\n\n<p>“Yes,” said Arthur, “yes I did. It was on display in the bottom of\na locked filing cabinet stuck in a disused lavatory with a sign on\nthe door saying ‘Beware of the Leopard’.”</p>\n\n<p>&#8220;Ever thought of going into advertising?&#8221;</p>\n</blockquote>\n\n<p>DF reader Brian Ashe sent this, correctly pointing out that it pretty much nails <a href=\"https://daringfireball.net/linked/2018/08/13/ap-google-location-history\">Google&#8217;s approach to turning off location tracking</a>.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.goodreads.com/quotes/40705-but-the-plans-were-on-display-on-display-i-eventually\">goodreads.com/quotes/40705-but-the-plans-were-on-display-on…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "‘Vomit Fraud’",
+         "date_published" : "2018-08-13T18:19:31Z",
+         "date_modified" : "2018-08-13T18:19:32Z",
+         "id" : "https://daringfireball.net/linked/2018/08/13/vomit-fraud",
+         "url" : "https://daringfireball.net/linked/2018/08/13/vomit-fraud",
+         "external_url" : "http://www.wday.com/news/4484702-mcfeely-west-fargo-man-victim-vomit-fraud-and-his-wife-found-video-prove-it",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Interesting story from Fargo, North Dakota:</p>\n\n<blockquote>\n  <p>&#8220;Vomit fraud&#8221; is a growing problem in many parts of the country.\nThe Miami Herald reported this summer that multiple Uber\npassengers are filing lawsuits after drivers falsely charged\npassengers, claiming they had to clean up vomit, urine, blood and\nother bodily fluids.</p>\n\n<p>The Marquarts also discovered the police treat the fraud as a\ncivil matter instead of a criminal one because of the way the ride\nservices write user agreements, so they don&#8217;t investigate. The\nMarquarts learned Lyft doesn&#8217;t appear overly concerned its drivers\nare committing fraud. They also don&#8217;t believe drivers who get\ncaught face any repercussions.</p>\n</blockquote>\n\n<p>Great detective work in this story, proving the Lyft driver had faked the &#8220;vomit&#8221;.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"http://www.wday.com/news/4484702-mcfeely-west-fargo-man-victim-vomit-fraud-and-his-wife-found-video-prove-it\">wday.com/news/4484702-mcfeely-west-fargo-man-victim-vomit…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "AP: Google Tracks Your Location Even When You Disable ‘Location History’",
+         "date_published" : "2018-08-13T17:15:44Z",
+         "date_modified" : "2018-08-13T20:30:31Z",
+         "id" : "https://daringfireball.net/linked/2018/08/13/ap-google-location-history",
+         "url" : "https://daringfireball.net/linked/2018/08/13/ap-google-location-history",
+         "external_url" : "https://apnews.com/828aefab64d4411bac257a07c1af0ecb",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Ryan Nakashima, reporting for the Associated Press:</p>\n\n<blockquote>\n  <p>Storing your minute-by-minute travels carries privacy risks and\nhas been used by police to determine the location of suspects &#8212;\nsuch as a warrant that police in Raleigh, North Carolina, served\non Google last year to find devices near a murder scene. So the\ncompany will let you “pause” a setting called Location History.</p>\n\n<p>Google says that will prevent the company from remembering where\nyou’ve been. <a href=\"https://support.google.com/accounts/answer/3118687?hl=en\">Google’s support page on the subject</a> states: “You can\nturn off Location History at any time. With Location History off,\nthe places you go are no longer stored.”</p>\n\n<p>That isn’t true. Even with Location History paused, some\nGoogle apps automatically store time-stamped location data\nwithout asking.</p>\n</blockquote>\n\n<p>The saga of Apple Maps&#8217;s launch is long and complicated, but Google&#8217;s desire to track our location was at the heart of it. Apple wanted new features like turn-by-turn directions and vector graphic map tiles; in exchange, Google wanted iOS to allow Google to track user location more pervasively.</p>\n\n<blockquote>\n  <p>“If you’re going to allow users to turn off something called\n‘Location History,’ then all the places where you maintain\nlocation history should be turned off,” Mayer said. “That seems\nlike a pretty straightforward position to have.”</p>\n\n<p>Google says it is being perfectly clear. [&#8230;]</p>\n\n<p>To stop Google from saving these location markers, the company\nsays, users can turn off another setting, one that does not\nspecifically reference location information. Called “Web and App\nActivity” and enabled by default, that setting stores a variety of\ninformation from Google apps and websites to your Google account.</p>\n</blockquote>\n\n<p>Google is saying, with a straight face, that it&#8217;s perfectly clear that disabling the feature named &#8220;Location History&#8221; does <em>not</em> prevent Google from tracking your location history. There&#8217;s nothing surprising about this, but that doesn&#8217;t mean it isn&#8217;t shameful.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://apnews.com/828aefab64d4411bac257a07c1af0ecb\">apnews.com/828aefab64d4411bac257a07c1af0ecb</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Honeybadger",
+         "date_published" : "2018-08-11T22:55:06Z",
+         "date_modified" : "2018-08-13T18:27:30Z",
+         "id" : "https://daringfireball.net/linked/2018/08/11/honeybadger",
+         "url" : "https://daringfireball.net/linked/2018/08/11/honeybadger",
+         "external_url" : "https://www.honeybadger.io/?utm_source=df",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>My thanks to Honeybadger for sponsoring this week&#8217;s DF RSS feed. Honeybadger is a web app health monitoring tool that can let you know when something is wrong with your web app before your users do.</p>\n\n<p>Honeybadger monitors when front-end or back-end systems are raising errors, whether the site is slow or unreachable, whether scheduled tasks are completing as expected, which users have been affected by errors today, and more.</p>\n\n<p>You’ll always be the first to know about other application issues &#8212; from widespread outages to missing cron jobs &#8212; via email, Slack, or on your phone. It only takes a few minutes to set up Honeybadger’s total monitoring suite. Try Honeybadger today and use it for free for 15 days.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.honeybadger.io/?utm_source=df\">honeybadger.io/?utm_source=df</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Joanna Stern Test Drives Magic Leap",
+         "date_published" : "2018-08-10T19:05:36Z",
+         "date_modified" : "2018-08-10T19:09:48Z",
+         "id" : "https://daringfireball.net/linked/2018/08/10/magic-leap-joanna-stern",
+         "url" : "https://daringfireball.net/linked/2018/08/10/magic-leap-joanna-stern",
+         "external_url" : "https://www.wsj.com/articles/magic-leap-headset-test-drive-off-your-phone-and-into-your-world-1533730080",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Joanna Stern, writing for The Wall Street Journal:</p>\n\n<blockquote>\n  <p>The Lightwear glasses make digital objects sometimes look so real\nthat they play tricks on your mind. I certainly didn’t think the\nflying robot I placed in the corner was genuine, yet the steam\ncoming out of his jets looked like it was from a tea kettle.\nDuring one demo, I picked up an actual chess piece just to confirm\nit wasn’t another illusion.</p>\n\n<p>What makes Magic Leap’s objects so believable is how they fit into\nour world. Cameras and other sensors in the headset scan\nsurrounding objects and surfaces &#8212; from your arms to the chair’s\narmrest. When I placed a virtual orange fish between two actual\ncouch pillows, it swam back and forth between them.</p>\n</blockquote>\n\n<p>Fun video, too (as usual).</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.wsj.com/articles/magic-leap-headset-test-drive-off-your-phone-and-into-your-world-1533730080\">wsj.com/articles/magic-leap-headset-test-drive-off-your…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "★ Reuters’s Curious Sourcing on Doug Field Joining Project Titan",
+         "date_published" : "2018-08-10T16:29:40Z",
+         "date_modified" : "2018-08-11T00:47:01Z",
+         "id" : "https://daringfireball.net/2018/08/reuters_nellis_titan",
+         "url" : "https://daringfireball.net/2018/08/reuters_nellis_titan",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>I don&#8217;t break a lot of news &#8212; it&#8217;s just not what Daring Fireball is about, or what I&#8217;m interested in. But, once in a while, I get my hands on a scoop, like last night&#8217;s piece about former Tesla engineering head Doug Field returning to Apple to work with Bob Mansfield in the Titan group. The news was <a href=\"https://www.techmeme.com/180809/p34#a180809p34\">quickly picked up by dozens of other outlets</a>, almost all of whom graciously credited me (or just &#8220;Daring Fireball&#8221;, which is fine) with (a) breaking the news that Field was back at Apple, and (b) the specific news that Field is working with Mansfield in the Titan group. Apple confirmed to me only that Field was back at Apple. That Field has joined Titan &#8212; though unsurprising given his experience working with Mansfield and at Tesla &#8212; came from my own unnamed sources.</p>\n\n<p><a href=\"https://www.reuters.com/article/us-apple-tesla/doug-field-former-tesla-engineering-chief-returns-to-apple-idUSKBN1KV0CH\">This Reuters story by Stephen Nellis</a>, however, presents itself as original reporting:</p>\n\n<blockquote>\n  <p>Doug Field, who stepped down as the senior vice president of\nengineering at Telsa Inc last month, is returning to Apple Inc,\nApple told Reuters on Thursday.</p>\n\n<p>Field will be working with Apple executive Bob Mansfield, who has\nbeen heading up Apple’s self-driving car program, Project Titan.\nField and Mansfield previously worked together on engineering\nApple’s line of Mac computers.</p>\n</blockquote>\n\n<p>My piece was published at 11:13p EDT; Nellis&#8217;s Reuters story was published 12:39a. Note too that the &#8220;Apple told Reuters on Thursday&#8221; attribution is only in the first paragraph. There is no attribution for the information in the second paragraph. Apple would not confirm that to me, just two hours prior, and though it&#8217;s certainly possible that Nellis had his own independent sources for that information &#8212; hundreds of employees within Apple were aware of Field&#8217;s return &#8212; there is no &#8220;according to sources familiar with the situation&#8221; attribution.</p>\n\n<p>Also, Field&#8217;s previous employer was <em>Tesla</em>, not <em>Telsa</em>.</p>\n\n<p><strong>Update:</strong> The second paragraph of Nellis&#8217;s story now reads:</p>\n\n<blockquote>\n  <p>Field will be working with Apple executive Bob Mansfield, who has\nbeen heading up Apple’s self-driving car program, Project Titan,\naccording to Daring Fireball, a technology news website that\nearlier reported Field’s move.</p>\n</blockquote>\n\n<p>There&#8217;s always an update <a href=\"https://daringfireball.net/2011/07/attribution_and_credit\">when I point these things out</a>, but I genuinely thank Reuters and Nellis for fixing this.</p>\n\n\n\n    "
+      },
+      {
+         "title" : "★ Doug Field Returns to Apple After Leaving Tesla",
+         "date_published" : "2018-08-10T03:13:23Z",
+         "date_modified" : "2018-08-10T04:44:02Z",
+         "id" : "https://daringfireball.net/2018/08/doug_field_returns_to_apple",
+         "url" : "https://daringfireball.net/2018/08/doug_field_returns_to_apple",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Here&#8217;s some interesting hiring news I&#8217;ve heard through the little birdie grapevine:<sup id=\"fnr1-2018-08-09\"><a href=\"#fn1-2018-08-09\">1</a></sup> Doug Field &#8212; <a href=\"https://www.cnet.com/roadshow/news/doug-field-tesla-former-model-3-boss-leaves-company/\">who left Tesla in May</a> after overseeing Model 3 production &#8212; has returned to Apple, working in <a href=\"https://www.wsj.com/articles/apple-taps-bob-mansfield-to-oversee-car-project-1469458580\">Bob Mansfield&#8217;s project Titan group</a>. Apple spokesperson Tom Neumayr confirmed with me only that Field has returned to Apple, but no one should find it surprising that he&#8217;s working on Titan.</p>\n\n<p>Field previously worked at Apple as a VP of Mac hardware engineering <a href=\"https://www.tesla.com/blog/tesla-hires-apple-vp-doug-field-lead-vehicle-programs\">before leaving for Tesla in 2013</a>. So he spent years working closely (and successfully) with Mansfield on Mac hardware, and spent the last few years as senior VP of engineering at the world&#8217;s premier electric carmaker. That makes Field a seemingly perfect fit for Titan.</p>\n\n<p>I wouldn&#8217;t read too much into any single hire, and the employee exchange program between Apple and Tesla <a href=\"https://duckduckgo.com/?q=tesla+hiring+apple+employees\">continues to flow in both directions</a>. But I think it&#8217;s an interesting hire, primarily because it suggests to me that Apple still has an interest in making actual vehicles, despite <a href=\"https://www.nytimes.com/2017/08/22/technology/apple-self-driving-car.html\">reports that the company has scaled back the project</a> to merely make autonomous systems for inclusion in vehicles made by other companies. That rumor never really made sense to me anyway &#8212; Apple&#8217;s modus operandi has always been to make the whole widget. Apple makes products, not components. Field returning to Apple also suggests to me that under Mansfield&#8217;s leadership, the Titan project has regained its footing <a href=\"https://www.wsj.com/articles/apple-taps-bob-mansfield-to-oversee-car-project-1469458580\">after its infamously rocky start</a>.</p>\n\n<p>And you have to love the idea of any project being led by guys named <a href=\"https://www.youtube.com/results?search_query=mckenzie+brothers\">Bob and Doug, eh</a>.</p>\n\n<div class=\"footnotes\">\n<hr />\n<ol>\n<li id=\"fn1-2018-08-09\">\n<p>Mixed metaphor, I know, but I&#8217;m going with it.&nbsp;<a href=\"#fnr1-2018-08-09\"  class=\"footnoteBackLink\"  title=\"Jump back to footnote 1 in the text.\">&#x21A9;&#xFE0E;</a></p>\n</li>\n</ol>\n</div>\n\n\n\n    "
+      },
+      {
+         "title" : "Apple Defends Its Decision to Allow Infowars in the App Store",
+         "date_published" : "2018-08-10T02:47:00Z",
+         "date_modified" : "2018-08-10T02:48:31Z",
+         "id" : "https://daringfireball.net/linked/2018/08/09/paczkowski-infowars-app-store",
+         "url" : "https://daringfireball.net/linked/2018/08/09/paczkowski-infowars-app-store",
+         "external_url" : "https://www.buzzfeednews.com/article/johnpaczkowski/apple-says-it-will-allow-infowars-app-in-the-app-store-for",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>John Paczkowski, writing for BuzzFeed:</p>\n\n<blockquote>\n  <p>On Apple’s podcast platform, Infowars was presented with an easily\nreviewed episode list &#8212; a concrete thing that could be used to\nsupport a determination that its content was/wasn’t in violation\nof the company’s policies. The Infowars app is different. It\nstreams video broadcasts, which means they are ephemeral in the\napp and on Apple’s platform. That the same episodes are readily\navailable on the Infowars site doesn’t matter. In order for Apple\nto act on a violation, there needs to be evidence that one\noccurred on its platform. Simply put: If Jones has violated the\ncompany’s rules, it has yet to catch him in the act.</p>\n\n<p>This distinction could explain why Apple was so quick to remove\nalmost all of Infowars’ podcasts in the first place. Given that\nthe company didn’t host the podcasts to begin with, the removal\nwas technically not a content purge and something more akin to\nremoving a link. In other words, Apple’s enforcement, which caused\ntech’s biggest platforms to follow suit, was something of a\ncontent moderation sleight of hand &#8212; a cosmetic change rather\nthan an actual deletion.</p>\n</blockquote>\n\n<p>I’ve been thinking a lot about this the last few days. I suspect that Paczkowski has it right,  that Apple is more willing to remove a podcast because iTunes doesn’t host podcasts &#8212; it’s just a directory. Whereas if they remove the app there’s no way around it. I think this distinction is weak sauce though &#8212; iTunes isn&#8217;t technically a gatekeeper to podcasts, but the truth is that the iTunes podcast directory is the de facto standard index of podcasts. Getting de-listed from iTunes is a huge deal.</p>\n\n<p>The web is the world&#8217;s open platform. The fact that the App Store is a closed platform that Apple controls is a feature, not a bug. If Apple removed the app, Infowars’s website would still work in Safari. It really doesn’t make sense to me that Apple would de-list the podcasts but not remove the app that contains the exact same content. And as Paczkowski reports, in the aftermath of this highly-publicized kerfuffle, Infowars&#8217;s iOS app has risen from 47th to 3rd in the &#8220;News&#8221; category. To me it would make more sense to have kept both the podcast and the app than to remove one but not the other.</p>\n\n<p><strong>Update:</strong> I wonder if this is less about Infowars specifically and more about Apple being reluctant to draw attention to their total control of the App Store. Google&#8217;s recent lashing from EU regulators <a href=\"https://stratechery.com/2018/the-european-commission-versus-android/\">hinged largely on the Play Store</a>. I know Apple loves having control over the App Store, but in today&#8217;s climate &#8212; polarized politics combined with increasing regulatory scrutiny of tech giants &#8212; I suspect they don&#8217;t want to draw attention to that control.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.buzzfeednews.com/article/johnpaczkowski/apple-says-it-will-allow-infowars-app-in-the-app-store-for\">buzzfeednews.com/article/johnpaczkowski/apple-says-it-will…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Kara Swisher: ‘Rules Won’t Save Twitter. Values Will.’",
+         "date_published" : "2018-08-10T00:56:55Z",
+         "date_modified" : "2018-08-10T00:56:56Z",
+         "id" : "https://daringfireball.net/linked/2018/08/09/swisher-twitter-infowars",
+         "url" : "https://daringfireball.net/linked/2018/08/09/swisher-twitter-infowars",
+         "external_url" : "https://www.nytimes.com/2018/08/08/opinion/twitter-alex-jones-jack-dorsey.html",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Kara Swisher, in her new column at The New York Times:</p>\n\n<blockquote>\n  <p>I am down with Mr. Dorsey on the part about different viewpoints\nbeing expressed in a civil and even moderately testy way. There’s\nsome value, after all, in force-reading all those opinions on\nwhether a Colorado baker should make gay people cake or not. But\nthe loosey-goosey way that he and Twitter’s rolling series of\nleaders have run the platform over the years (you can read all\nabout that in Nick Bilton’s telenovela of a book, <em>Hatching\nTwitter</em>) has turned it from what could have been an unprecedented\ndiscussion and news platform into the last big refuge of the\nrepugnant.</p>\n\n<p>So it’s somewhat odd for Mr. Dorsey to be lecturing the rest of us\nabout principles at this moment of high agitation, brought on in\nno small part by the twitchy, meaner-than-ever screamfest of\nTwitter itself.</p>\n\n<p>While principles and rules will help in an open platform, it is\nvalues that Mr. Dorsey should really be talking about. By values,\nI mean a code that requires making hard choices &#8212; curating your\nofferings, which was something Apple got made fun of for doing,\nback when it launched the App Store, by the open-is-best crowd.</p>\n</blockquote>\n\n<p>I agree with every word of this, and it&#8217;s exactly why I think Apple&#8217;s decision to remove Infowars&#8217;s podcasts from the iTunes directory but allow their app to remain in the App Store doesn&#8217;t hold water.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.nytimes.com/2018/08/08/opinion/twitter-alex-jones-jack-dorsey.html\">nytimes.com/2018/08/08/opinion/twitter-alex-jones-jack…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple Orders New Comedy Series From Charlie Day and Rob McElhenney",
+         "date_published" : "2018-08-09T22:47:34Z",
+         "date_modified" : "2018-08-09T22:47:35Z",
+         "id" : "https://daringfireball.net/linked/2018/08/09/apple-mcelhenney-day",
+         "url" : "https://daringfireball.net/linked/2018/08/09/apple-mcelhenney-day",
+         "external_url" : "https://variety.com/2018/tv/news/charlie-day-rob-mcelhenney-apple-comedy-series-1202901078/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Joe Otterson, reporting for Variety:</p>\n\n<blockquote>\n  <p>Apple has given a straight-to-series order to a half-hour scripted\ncomedy from Rob McElhenney and Charlie Day, Variety has learned.</p>\n\n<p>The series is set in a video game development studio, with\nMcElhenney also attached to star in addition to writing and\nexecutive producing alongside Day. The series marks the duo’s\nfirst collaboration as writers since “It’s Always Sunny in\nPhiladelphia.” McElhenney co-created “It’s Always Sunny” with\nboth he and Day starring and serving as executive producers on\nthat show.</p>\n</blockquote>\n\n<p><em>It&#8217;s Always Sunny</em> is one of my favorite shows. What I find particularly interesting about this deal is that if this new show is anything like <em>It&#8217;s Always Sunny</em>, Apple is not shying away from R-rated original content. </p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://variety.com/2018/tv/news/charlie-day-rob-mcelhenney-apple-comedy-series-1202901078/\">variety.com/2018/tv/news/charlie-day-rob-mcelhenney-apple…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Dylan Byers Reports Tim Cook and Eddy Cue Decided to Remove Alex Jones’s Infowars Podcasts From iTunes, Facebook and YouTube Followed Apple’s Lead",
+         "date_published" : "2018-08-08T19:16:14Z",
+         "date_modified" : "2018-08-08T19:16:16Z",
+         "id" : "https://daringfireball.net/linked/2018/08/08/byers-infowars",
+         "url" : "https://daringfireball.net/linked/2018/08/08/byers-infowars",
+         "external_url" : "https://mailchi.mp/cnn/pacific-august-7-2018?e=4e0d6f7d41",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Dylan Byers, in his Pacific newsletter:</p>\n\n<blockquote>\n  <p>• Amid mounting public pressure to address Jones&#8217; hate speech, Apple&#8217;s Tim Cook and Eddy Cue met over the weekend and decided to pull five of Jones&#8217; podcasts from their platform, sources familiar with the matter told me.</p>\n\n<p>• Cook and Cue decided to let Jones&#8217; InfoWars app remain available in the app store because they felt it did not run afoul of their policy. [&#8230;]</p>\n\n<p>• Zuckerberg only moved to remove these pages after learning about Apple&#8217;s decision, Facebook sources said. That is why the pages were removed at 3 a.m. Pacific Time.</p>\n\n<p>• YouTube&#8217;s Susan Wojcicki and Spotify&#8217;s Daniel Ek similarly moved to ban some of Jones&#8217; content only after learning about Apple&#8217;s decision.</p>\n\n<p>• There was no coordination between Apple, Facebook and any of the other tech firms, sources familiar with the matter said. The decisions were made independently.</p>\n</blockquote>\n\n<p>Assuming Byers&#8217;s reporting is solid, there we have it: Apple led the way.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://mailchi.mp/cnn/pacific-august-7-2018?e=4e0d6f7d41\">mailchi.mp/cnn/pacific-august-7-2018?e=4e0d6f7d41</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Logitech Introduces $70 ‘Powered’ Charging Stand for iPhones",
+         "date_published" : "2018-08-08T18:46:40Z",
+         "date_modified" : "2018-08-08T18:46:43Z",
+         "id" : "https://daringfireball.net/linked/2018/08/08/logitech-powered",
+         "url" : "https://daringfireball.net/linked/2018/08/08/logitech-powered",
+         "external_url" : "https://blog.logitech.com/2018/08/06/logitech-powered-wireless-charging-stand/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Logitech:</p>\n\n<blockquote>\n  <p>Logitech is changing the way you charge your iPhone with today’s\nintroduction of the Logitech Powered Wireless Charging Stand.\nDesigned in collaboration with Apple, Powered is a wireless\ncharging stand for iPhone 8, iPhone 8 Plus and iPhone X that makes\nit easy to charge and use your iPhone at the same time. [&#8230;]</p>\n\n<p>Powered delivers up to 7.5W charging for iPhone 8, 8 Plus, and X\nonly and up to 5W charging for all other Qi-enabled devices.</p>\n</blockquote>\n\n<p>&#8220;Designed in collaboration with Apple&#8221; is interesting, especially since Apple&#8217;s own AirPower charging mat still isn&#8217;t shipping. This is the second recent Logitech product co-designed by Apple, after this year&#8217;s <a href=\"https://www.logitech.com/en-us/product/crayon\">Crayon stylus</a>.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://blog.logitech.com/2018/08/06/logitech-powered-wireless-charging-stand/\">blog.logitech.com/2018/08/06/logitech-powered-wireless…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Wired Gets Hands-On With Magic Leap",
+         "date_published" : "2018-08-08T16:04:44Z",
+         "date_modified" : "2018-08-08T16:09:08Z",
+         "id" : "https://daringfireball.net/linked/2018/08/08/magic-leap-wired",
+         "url" : "https://daringfireball.net/linked/2018/08/08/magic-leap-wired",
+         "external_url" : "https://www.wired.com/story/magic-leap-one-creator-augmented-reality-inside-story/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Jessi Hempel, writing for Wired:</p>\n\n<blockquote>\n  <p>In retrospect, Magic Leap CEO Rony Abovitz realizes that all the hype was a big mistake. “I think we were arrogant,” he says.</p>\n</blockquote>\n\n<p>You don’t fucking say.</p>\n\n<blockquote>\n  <p>The problem, we figured out, was the fit. Each set of goggles comes with five nose pieces and the ability to add prescription lenses. Magic Leap’s experience is so closely linked to a person’s physiology, these goggles will need to fit perfectly to work. This is a challenge for a company trying to introduce a new type of tech. So, Magic Leap has contracted with former Apple executive Ron Johnson’s startup, Enjoy, which sends customer service people to deliver new tech gadgets and help users set them up. Enjoy representatives will deliver every Magic Leap headset, fit it, and provide a tutorial on how it works.</p>\n</blockquote>\n\n<p>Yeah, that sounds like something that will scale well.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.wired.com/story/magic-leap-one-creator-augmented-reality-inside-story/\">wired.com/story/magic-leap-one-creator-augmented-reality…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple Removed Infowars From iTunes Podcast Directory, Then YouTube and Facebook Followed Suit",
+         "date_published" : "2018-08-06T20:42:14Z",
+         "date_modified" : "2018-08-06T21:46:42Z",
+         "id" : "https://daringfireball.net/linked/2018/08/06/infowars",
+         "url" : "https://daringfireball.net/linked/2018/08/06/infowars",
+         "external_url" : "https://www.buzzfeednews.com/article/johnpaczkowski/apple-is-removing-alex-jones-and-infowars-podcasts-from",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>John Paczkowski, reporting for BuzzFeed:</p>\n\n<blockquote>\n  <p>Apple moved first, striking the entire library for five of\nInfowars&#8217; six podcasts from its iTunes and Podcasts apps. Among\nthe podcasts, which were removed from Apple&#8217;s iTunes directory,\nare the show War Room and the popular Alex Jones Show podcast,\nwhich is hosted daily by the prominent conspiracy theorist.</p>\n\n<p>After that, platforms that have come under far more scrutiny for\nhosting Jones and his content &#8212; Facebook and YouTube &#8212; quickly\nfollowed suit after long and tortured deliberations. Spotify also\ndid the same.</p>\n\n<p>In all, the actions will currently seriously limit Jones&#8217;s ability\nto reach his massive audience. Twitter and Periscope remain one of\nthe sole major platforms to still host Jones.</p>\n\n<p>YouTube&#8217;s enforcement action will have the greatest impact on\nJones. His channel had nearly 2.5 million subscribers and more\nthan 1 billion views over its lifetime. It killed most if not all\nof the videos hosted on Jones&#8217;s website.</p>\n</blockquote>\n\n<p>I&#8217;m curious if these companies did this in cooperation, or if Apple acted alone and Facebook and YouTube followed in their wake. <a href=\"https://twitter.com/cwarzel/status/1026499114312200193\">It <em>sounds</em> like this was Apple acting on its own</a> and YouTube and Facebook followed their lead.</p>\n\n<p><strong>Update:</strong> Also curious: Apple only removed Infowars from their podcast directory — <a href=\"https://www.buzzfeednews.com/article/charliewarzel/despite-violating-hate-speech-policies-apple-has-not\">the Infowars app remains in the App Store</a>. Different standards? Seems hard to justify de-listing the podcasts for “hate speech” but leaving the app in place when it contains the same content. </p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.buzzfeednews.com/article/johnpaczkowski/apple-is-removing-alex-jones-and-infowars-podcasts-from\">buzzfeednews.com/article/johnpaczkowski/apple-is-removing…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "[Sponsor] Honeybadger",
+         "date_published" : "2018-08-06T16:43:58-04:00",
+         "date_modified" : "2018-08-06T16:44:00-04:00",
+         "id" : "https://daringfireball.net/feeds/sponsors/2018/08/honeybadger",
+         "url" : "https://daringfireball.net/feeds/sponsors/2018/08/honeybadger",
+         "external_url" : "https://www.honeybadger.io/?utm_source=df",
+         "author" : {
+            "name" : "Daring Fireball Department of Commerce"
+         },
+         "content_html" : "\n<p>Don&#8217;t you hate it when your users ask you what&#8217;s going on with your broken web app &#8212; but you had no idea? Yeah, we hate that too&#8230; which is why we built Honeybadger, a web app health monitoring tool built for you and your team. </p>\n\n<p>We combine three types of monitoring into one platform. With Honeybadger:</p>\n\n<ul>\n<li>Your users will thank you when you fix application errors before they can complain.</li>\n<li>You’ll always be the first to know about other application issues, from widespread outages to missing cron jobs, via email, Slack, or on your phone.</li>\n</ul>\n\n<p>Try Honeybadger today &#8212; you&#8217;ll love it so much you&#8217;ll wish your app had more errors. :)</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.honeybadger.io/?utm_source=df\">honeybadger.io/?utm_source=df</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Jamf Now",
+         "date_published" : "2018-08-04T16:45:07Z",
+         "date_modified" : "2018-08-06T21:34:47Z",
+         "id" : "https://daringfireball.net/linked/2018/08/04/jamf-now",
+         "url" : "https://daringfireball.net/linked/2018/08/04/jamf-now",
+         "external_url" : "https://www.jamf.com/lp/set-up-manage-and-protect-apple-devices-at-work/?utm_source=daringfireball&utm_medium=text&utm_campaign=2018-31",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>My thanks to Jamf for once again sponsoring the DF RSS feed. Jamf Now is an easy-to-use software solution to help organizations set up, manage, and protect their Apple devices.</p>\n\n<p>Whether you are looking for a way to organize your digital inventory, deploy device settings, or secure your company data, Jamf Now is the easiest way to manage your iPad, iPhone, and Mac devices. No IT required.</p>\n\n<p>Daring Fireball readers can create an account and manage three devices for free &#8212; forever. Each additional device is just $2 per month. <a href=\"https://www.jamf.com/lp/set-up-manage-and-protect-apple-devices-at-work/?utm_source=daringfireball&amp;utm_medium=text&amp;utm_campaign=2018-31\">Create your free account today</a>.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.jamf.com/lp/set-up-manage-and-protect-apple-devices-at-work/?utm_source=daringfireball&utm_medium=text&utm_campaign=2018-31\">jamf.com/lp/set-up-manage-and-protect-apple-devices-at-work…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Adam Engst: ‘Apple’s Termination of App Store Affiliate Payments Is Unnecessary, Mean-Spirited, and Harmful’",
+         "date_published" : "2018-08-03T15:43:53Z",
+         "date_modified" : "2018-08-03T15:43:54Z",
+         "id" : "https://daringfireball.net/linked/2018/08/03/engst-affiliate-program",
+         "url" : "https://daringfireball.net/linked/2018/08/03/engst-affiliate-program",
+         "external_url" : "https://tidbits.com/2018/08/02/apples-termination-of-app-store-affiliate-payments-is-unnecessary-mean-spirited-and-harmful/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Adam Engst, writing at TidBITS:</p>\n\n<blockquote>\n  <p>In the end, I’m disappointed in Apple. Not surprised, since Apple\nhas never acknowledged that the media plays a vital role in the\nbroader Apple ecosystem, but disappointed that a company that puts\nso much effort into bringing joy to users can simultaneously\nbehave so callously to some of its greatest supporters.</p>\n</blockquote>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://tidbits.com/2018/08/02/apples-termination-of-app-store-affiliate-payments-is-unnecessary-mean-spirited-and-harmful/\">tidbits.com/2018/08/02/apples-termination-of-app-store…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Newsrooms Must Stand Up to Targeted Campaigns of Harassment",
+         "date_published" : "2018-08-03T15:38:30Z",
+         "date_modified" : "2018-08-03T15:38:31Z",
+         "id" : "https://daringfireball.net/linked/2018/08/03/verge-jeong",
+         "url" : "https://daringfireball.net/linked/2018/08/03/verge-jeong",
+         "external_url" : "https://www.theverge.com/2018/8/2/17644878/the-verge-new-york-times-sarah-jeong",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>The Verge editorial team, on the bullshit alt-right campaign against newly-hired NYT editorial board member Sarah Jeong:</p>\n\n<blockquote>\n  <p>Online trolls and harassers want us, The Times, and other\nnewsrooms to waste our time by debating their malicious agenda.\nThey take tweets and other statements out of context because they\nwant to disrupt us and harm individual reporters. The strategy is\nto divide and conquer by forcing newsrooms to disavow their\ncolleagues one at a time. This is not a good-faith conversation;\nit’s intimidation.</p>\n\n<p>So we’re not going to fall for these disingenuous tactics. And\nit’s time other newsrooms learn to spot these hateful campaigns\nfor what they are: attempts to discredit and undo the vital work\nof journalists who report on the most toxic communities on the\ninternet. We are encouraged that our colleagues at The New York\nTimes are standing by Sarah in the face of feigned outrage.</p>\n</blockquote>\n\n<p><a href=\"https://twitter.com/scalzi/status/1025372965754621953\">Good thread on Twitter by John Scalzi</a>:</p>\n\n<blockquote>\n  <p>It&#8217;s really frustrating to me that more people don&#8217;t understand\nthat racist/alt-right people have gamified their rhetoric; they&#8217;re\nnot interested in discussion, they&#8217;re slapping down cards from a\n&#8220;Debate: The Gathering&#8221; stack, and the only goal is taking heads.</p>\n</blockquote>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.theverge.com/2018/8/2/17644878/the-verge-new-york-times-sarah-jeong\">theverge.com/2018/8/2/17644878/the-verge-new-york-times…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple Closes With Market Cap Over $1 Trillion",
+         "date_published" : "2018-08-02T22:05:26Z",
+         "date_modified" : "2018-08-03T15:54:35Z",
+         "id" : "https://daringfireball.net/linked/2018/08/02/apple-one-trillion",
+         "url" : "https://daringfireball.net/linked/2018/08/02/apple-one-trillion",
+         "external_url" : "https://www.nytimes.com/2018/08/02/technology/apple-stock-1-trillion-market-cap.html",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Jack Nicas has a good piece in The Times looking back at the last 20 years of Apple history, in light of today&#8217;s news. A few landmarks:</p>\n\n<ul>\n<li>1996: Apple&#8217;s market cap sunk as low as $3 billion before the NeXT reunification.</li>\n<li>2007: Apple was worth $73 billion when Steve Jobs introduced the iPhone.</li>\n<li>2011: Apple was worth $346 billion when Tim Cook took the helm as CEO.</li>\n</ul>\n\n<p>Apple closed today with a market cap of $1.002 trillion. That &#8220;.002&#8221; looks insignificant but represents $2 billion &#8212; about what the entire company was worth in 1996.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.nytimes.com/2018/08/02/technology/apple-stock-1-trillion-market-cap.html\">nytimes.com/2018/08/02/technology/apple-stock-1-trillion…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Everything Bad About Facebook Is Bad for the Same Reason",
+         "date_published" : "2018-08-02T19:00:52Z",
+         "date_modified" : "2018-08-02T19:00:53Z",
+         "id" : "https://daringfireball.net/linked/2018/08/02/sonnad-facebook",
+         "url" : "https://daringfireball.net/linked/2018/08/02/sonnad-facebook",
+         "external_url" : "https://qz.com/1342757/everything-bad-about-facebook-is-bad-for-the-same-reason/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Nikhil Sonnad, writing for Quartz:</p>\n\n<blockquote>\n  <p>Facebook didn’t intend for any of this to happen. It just wanted\nto connect people. But there is a thread running from Perkins’\ndeath to religious violence in Myanmar and the company’s\nhalf-assed attempts at combating fake news. Facebook really is\nevil. Not on purpose. In the banal kind of way.</p>\n\n<p>Underlying all of Facebook’s screw-ups is a bumbling obliviousness\nto real humans. The company’s singular focus on “connecting\npeople” has allowed it to conquer the world, making possible the\ncreation of a vast network of human relationships, a source of\ninsights and eyeballs that makes advertisers and investors drool.</p>\n\n<p>But the imperative to “connect people” lacks the one ingredient\nessential for being a good citizen: Treating individual human\nbeings as sacrosanct. To Facebook, the world is not made up of\nindividuals, but of connections between them.</p>\n</blockquote>\n\n<p>Terrific essay.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://qz.com/1342757/everything-bad-about-facebook-is-bad-for-the-same-reason/\">qz.com/1342757/everything-bad-about-facebook-is-bad-for-the…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Apple Will Soon Remove iOS and Mac Apps From Affiliate Program",
+         "date_published" : "2018-08-02T18:17:43Z",
+         "date_modified" : "2018-08-02T21:58:31Z",
+         "id" : "https://daringfireball.net/linked/2018/08/02/hackett-affiliate-apps",
+         "url" : "https://daringfireball.net/linked/2018/08/02/hackett-affiliate-apps",
+         "external_url" : "https://512pixels.net/2018/08/apple-removing-ios-and-mac-apps-from-affiliate-program/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Stephen Hackett on Apple&#8217;s decision to remove apps from their affiliate program:</p>\n\n<blockquote>\n  <p>Another angle here to consider is money. Payments made to people\nlinking to apps with affiliate links comes out of Apple’s share of\nrevenue generated by app sales and in-app purchases. How much\nmoney it costs them is unknown, but the idea that the reasons\nbehind this move could be financial in nature feels pretty gross.\nApple is a for-profit company, and it may have a real bottom-line\nreason to close this program, but sometimes doing the right thing\ncomes with a cost.</p>\n</blockquote>\n\n<p>I don&#8217;t know what the explanation is, but sites like TouchArcade that are <a href=\"https://toucharcade.com/2018/08/01/apple-kills-the-app-store-affiliate-program-and-i-have-no-idea-what-we-are-going-to-do/\">currently dependent on App Store affiliate program revenue</a> are now in a tough place. I&#8217;d love to know why Apple made this decision. I don&#8217;t get the argument that it&#8217;s about Apple pinching pennies and not wanting to pay the affiliate fees. The whole point of affiliate programs is that they drive enough additional sales to <em>increase</em> revenue. That&#8217;s why Amazon has an affiliate program and heavily promotes it.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://512pixels.net/2018/08/apple-removing-ios-and-mac-apps-from-affiliate-program/\">512pixels.net/2018/08/apple-removing-ios-and-mac-apps-from…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "The Talk Show: ‘Little Q&A’",
+         "date_published" : "2018-08-02T00:45:40Z",
+         "date_modified" : "2018-08-02T00:45:41Z",
+         "id" : "https://daringfireball.net/linked/2018/08/01/the-talk-show-227",
+         "url" : "https://daringfireball.net/linked/2018/08/01/the-talk-show-227",
+         "external_url" : "https://daringfireball.net/thetalkshow/2018/08/01/ep-227",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Answering actual questions from actual listeners.</p>\n\n<p>Brought to you by:</p>\n\n<ul>\n<li><a href=\"https://casper.com/talkshow\">Casper</a>: You can be sure of your purchase with Casper’s 100 night risk-free, sleep-on-it trial.</li>\n<li><a href=\"https://squarespace.com/talkshow\">Squarespace</a>: Make your next move. Visit squarespace.com/talkshow and enter code <strong>talkshow</strong> for 10% off your first order.</li>\n</ul>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://daringfireball.net/thetalkshow/2018/08/01/ep-227\">daringfireball.net/thetalkshow/2018/08/01/ep-227</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Mac Rumors: ‘Apple Sold Fewest Macs in Any Quarter Since 2010 as Nearly Entire Lineup Was Outdated’",
+         "date_published" : "2018-08-01T23:54:31Z",
+         "date_modified" : "2018-08-01T23:54:33Z",
+         "id" : "https://daringfireball.net/linked/2018/08/01/mac-rumors",
+         "url" : "https://daringfireball.net/linked/2018/08/01/mac-rumors",
+         "external_url" : "https://www.macrumors.com/2018/08/01/fewest-quarterly-mac-sales-since-2010/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>I love it when an entire story fits in the headline.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.macrumors.com/2018/08/01/fewest-quarterly-mac-sales-since-2010/\">macrumors.com/2018/08/01/fewest-quarterly-mac-sales-since…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "The Bullshit Web",
+         "date_published" : "2018-08-01T23:47:32Z",
+         "date_modified" : "2018-08-01T23:47:33Z",
+         "id" : "https://daringfireball.net/linked/2018/08/01/heer-bullshit-web",
+         "url" : "https://daringfireball.net/linked/2018/08/01/heer-bullshit-web",
+         "external_url" : "https://pxlnv.com/blog/bullshit-web/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>This piece by Nick Heer is magnificent, every word of it.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://pxlnv.com/blog/bullshit-web/\">pxlnv.com/blog/bullshit-web/</a></strong></em></p>\n"
+      },
+      {
+         "title" : "iPhone X Remains a Hit",
+         "date_published" : "2018-08-01T17:37:04Z",
+         "date_modified" : "2018-08-01T23:00:48Z",
+         "id" : "https://daringfireball.net/linked/2018/08/01/iphone-x-snell",
+         "url" : "https://daringfireball.net/linked/2018/08/01/iphone-x-snell",
+         "external_url" : "https://sixcolors.com/post/2018/07/the-good-great-and-mac-of-apples-record-quarter/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Jason Snell:</p>\n\n<blockquote>\n  <p>Now, iPhone <em>unit</em> sales are still down from the days of the\niPhone 6. What’s changed is that the average selling price of an\niPhone is up &#8212; way up. That’s mostly thanks to the iPhone X,\nwhich has a record-breaking price tag that hasn’t seemed to matter\none whit in terms of consumer acceptance. (And for those who don’t\nwant to spend $1000 on an iPhone X, apparently the iPhone 8 and 8\nPlus hits the spot.)</p>\n</blockquote>\n\n<p>Here&#8217;s some claim chowder for the books &#8212; Dave Gershgorn writing for Quartz in April: &#8220;<a href=\"https://qz.com/1260811/apples-second-quarter-2018-analyst-expect-poor-iphone-x-sales/\">Almost Nobody Wants the iPhone X</a>&#8221;. Put it on your calendar &#8212; next year starting in January, the same dipshits will be telling us this year&#8217;s new iPhones are a flop, too.</p>\n\n<p>Snell, on Apple&#8217;s ever-increasing &#8220;Services&#8221; revenue:</p>\n\n<blockquote>\n  <p>As someone who’s interested in products, I find the focus on\nServices revenue to be a bit dispiriting. I get excited at the\nprospect of new products and seeing how consumers are accepting or\nrejecting products in the market. But the discussion of Services,\nespecially in a financial context, is essentially a conversation\nabout how Apple can grind more money out of every single person\nwho uses an iPhone, iPad, and Mac. (At least the Other Products\nline, which is also growing rapidly, contains real products like\nAirPods and the HomePod and the Apple Watch.)</p>\n\n<p>It’s not even that the individual products aren’t good &#8212; in point\nof fact, I’m a happy Apple Music user, I sync my photos with\niCloud, and I’ll get in line to give Apple my money for the new\nvideo service when it arrives. But to me, in its soul Apple is a\ncompany that makes products &#8212; the amalgamation of hardware and\nsoftware &#8212; and it will rise or fall based on its competency in\nthose areas.</p>\n</blockquote>\n\n<p>I think it&#8217;s even worse than that. I think Apple&#8217;s (Cook&#8217;s?) interest in increasing revenue from Services is keeping them from doing what&#8217;s right &#8212; increasing the base iCloud storage from 5 GB to something more reasonable.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://sixcolors.com/post/2018/07/the-good-great-and-mac-of-apples-record-quarter/\">sixcolors.com/post/2018/07/the-good-great-and-mac-of-apples…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Milton Glaser’s Proposed Logo for Trump’s ‘Space Force’",
+         "date_published" : "2018-07-30T21:59:30Z",
+         "date_modified" : "2018-07-30T21:59:31Z",
+         "id" : "https://daringfireball.net/linked/2018/07/30/glaser-space-force",
+         "url" : "https://daringfireball.net/linked/2018/07/30/glaser-space-force",
+         "external_url" : "https://onefoottsunami.com/2018/07/30/an-idiotic-idea-doesnt-deserve-branding-this-good/",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Paul Kafasis:</p>\n\n<blockquote>\n  <p>An idiotic idea doesn’t deserve branding this good.</p>\n</blockquote>\n\n<p>I would buy this on a t-shirt in a heartbeat.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://onefoottsunami.com/2018/07/30/an-idiotic-idea-doesnt-deserve-branding-this-good/\">onefoottsunami.com/2018/07/30/an-idiotic-idea-doesnt…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "Samsung’s Anti-iPhone X Ads",
+         "date_published" : "2018-07-30T20:09:51Z",
+         "date_modified" : "2018-07-30T20:11:15Z",
+         "id" : "https://daringfireball.net/linked/2018/07/30/samsung-iphone-x-ads",
+         "url" : "https://daringfireball.net/linked/2018/07/30/samsung-iphone-x-ads",
+         "external_url" : "https://www.phonearena.com/news/Samsung-Galaxy-vs-Apple-iPhone-ads-ingenius_id107136",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Rado Slavov, writing for PhoneArena:</p>\n\n<blockquote>\n  <p>Instead, Samsung decided to focus on the negative marketing and go\nafter its rival. What&#8217;s happening is Samsung is trying to play a\nfinite game here &#8212; its objective is to win the battle of this\nsmartphone generation, which comes at the expense of its own brand\nstrength and integrity. Such unprovoked aggressive behavior is\nnever typical of the winning side; it&#8217;s most often exhibited by\nthe losing team, which, realizing that the final seconds of the\nmatch are ticking away, starts playing in a rough and desperate,\npissed off way. After the confident Galaxy S8 launch, surely the\nmissed expectations for this year&#8217;s Galaxy S9 have put some\npressure on the consumer products team. But again, Samsung is not\nplaying the game it should be playing, and its behavior is\natypical for a gigantic tech company that&#8217;s supposedly a market\nleader and innovator.</p>\n</blockquote>\n\n<p>Samsung should be less concerned about iPhones and <a href=\"https://daringfireball.net/linked/2018/07/07/samsung-profits\">more concerned about setting its own phone apart from other Android phones</a>. What makes a high-end Samsung phone stand apart? Samsung keeps banging the drum about the iPhone X notch looking silly, but they&#8217;re only further emphasizing a distinguishing iPhone characteristic &#8212; one that other Android handset makers <a href=\"https://daringfireball.net/linked/2018/03/04/knock-off-notches\">are racing to copy</a>.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.phonearena.com/news/Samsung-Galaxy-vs-Apple-iPhone-ads-ingenius_id107136\">phonearena.com/news/Samsung-Galaxy-vs-Apple-iPhone-ads…</a></strong></em></p>\n"
+      },
+      {
+         "title" : "The Japanese Ghost Characters Haunting Unicode",
+         "date_published" : "2018-07-30T19:52:54Z",
+         "date_modified" : "2018-07-30T19:52:55Z",
+         "id" : "https://daringfireball.net/linked/2018/07/30/ghost-characters",
+         "url" : "https://daringfireball.net/linked/2018/07/30/ghost-characters",
+         "external_url" : "https://www.dampfkraft.com/ghost-characters.html",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Paul McCann:</p>\n\n<blockquote>\n  <p>In 1978 Japan&#8217;s Ministry of Economy, Trade and Industry\nestablished the encoding that would later be known as JIS X 0208,\nwhich still serves as an important reference for all Japanese\nencodings. However, after the JIS standard was released people\nnoticed something strange - several of the added characters had no\nobvious sources, and nobody could tell what they meant or how they\nshould be pronounced. Nobody was sure where they came from. These\nare what came to be known as the ghost characters (幽霊文字).</p>\n</blockquote>\n\n<p>I love a story like this.</p>\n\n<p style=\"padding-top: 1.5em;\"><em>Link: <strong><a href=\"https://www.dampfkraft.com/ghost-characters.html\">dampfkraft.com/ghost-characters.html</a></strong></em></p>\n"
+      },
+      {
+         "title" : "★ Apple Updates MacBook Pro Models With Touch Bar",
+         "date_published" : "2018-07-12T19:54:00Z",
+         "date_modified" : "2018-07-14T14:05:48Z",
+         "id" : "https://daringfireball.net/2018/07/new_macbook_pros",
+         "url" : "https://daringfireball.net/2018/07/new_macbook_pros",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Apple Newsroom:</p>\n\n<blockquote>\n  <p>Apple today updated MacBook Pro with faster performance and new\npro features, making it the most advanced Mac notebook ever. The\nnew MacBook Pro models with Touch Bar feature 8th-generation Intel\nCore processors, with 6-core on the 15-inch model for up to 70\npercent faster performance and quad-core on the 13-inch model for\nup to two times faster performance &#8212; ideal for manipulating large\ndata sets, performing complex simulations, creating multi-track\naudio projects or doing advanced image processing or film editing.</p>\n\n<p>Already the most popular notebook for developers around the world,\nthe new MacBook Pro can compile code faster and run multiple\nvirtual machines and test environments easier than before.\nAdditional updates include support for up to 32GB of memory, a\nTrue Tone display and an improved third-generation keyboard for\nquieter typing.</p>\n</blockquote>\n\n<p>My top take-aways:</p>\n\n<ul>\n<li><p>Today&#8217;s updates are indisputably aimed at genuine &#8220;pro&#8221; users. Only the high-end machines with the Touch Bar have been updated &#8212; the non-Touch-Bar 13-inch MacBook Pro (a.k.a. the MacBook Escape) and the just-plain MacBook are unchanged. Features like supporting 4 TB of SSD storage and 32 GB of RAM are not consumer features.</p></li>\n<li><p>Only the new 15-inch MacBook Pro has the option of 32 GB of RAM. This makes sense &#8212; it&#8217;s a different Intel architecture that requires a bigger power supply and battery. The new 13-inch models still use LPDDR3 RAM; the new 15-inch models use DDR4 RAM.</p></li>\n<li><p>These are the first Macs with True Tone displays. That&#8217;s not reason enough to upgrade for most people, but I&#8217;m so glad to see True Tone make its way to the Mac.</p></li>\n<li><p>The big question on many people&#8217;s minds is the keyboards: Do they resolve the reliability issues that have surfaced ever since Apple switched to butterfly mechanisms? All Apple is saying is that the new keyboards were engineered to be quieter. But I think only time will tell whether the keyboards were also engineered to be more reliable. Maybe, as Apple says, the only problem they sought to solve was <a href=\"https://daringfireball.net/linked/2016/11/14/macbook-pro-keyboard\">the noise</a>. But, if they <em>also</em> sought to improve the reliability of the keyboards &#8212; to fix the problem where keys get stuck, among other problems &#8212; I think they would only admit to fixing the noise problem. Marketing-wise, I don&#8217;t think they <em>would</em> admit to a reliability problem in the existing butterfly keyboards (especially since they&#8217;re still selling second-generation keyboards in all non-TouchBar models), and legal-wise (given the fact that they&#8217;re facing <a href=\"https://theoutline.com/post/4532/lawsuit-alleges-apple-knew-its-computers-were-defective-sold-them-anyway\">multiple lawsuits</a> regarding keyboard reliability) I don&#8217;t think they <em>should</em> admit to it. So whether they&#8217;ve attempted to address reliability problems along with the noise or not, I think they&#8217;d say the exact same thing today: only that they&#8217;ve made the keyboards quieter. I have no inside dope on this (<a href=\"https://daringfireball.net/contact/\">yet?</a>), but to me the reason for optimism is that they&#8217;re calling these keyboards &#8220;third-generation&#8221;, not just a quieter version of the second-generation butterfly-switch keyboards.</p></li>\n</ul>\n\n<p>Apple held a hands-on event at their New York townhouse this week. I couldn&#8217;t make it, but <a href=\"https://techcrunch.com/2018/07/12/apples-macbook-refresh-puts-the-focus-back-on-creative-pros/\">Brian Heater at TechCrunch</a>, <a href=\"https://www.imore.com/macbook-pro-2018\">Rene Ritchie at iMore</a>, and <a href=\"https://www.theverge.com/2018/7/12/17563640/apple-macbook-pro-touchbar-2018-intel-processor-siri-true-tone\">Dieter Bohn at The Verge</a> were there and all have good write-ups.</p>\n\n\n\n    "
+      },
+      {
+         "title" : "★ Google Demos Duplex",
+         "date_published" : "2018-06-27T19:45:24Z",
+         "date_modified" : "2018-06-27T21:58:49Z",
+         "id" : "https://daringfireball.net/2018/06/google_demos_duplex",
+         "url" : "https://daringfireball.net/2018/06/google_demos_duplex",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>Google has finally done what they should&#8217;ve done initially: let a group of journalists (two groups actually, one on each coast) actually listen to and participate in live Duplex calls.</p>\n\n<p><a href=\"https://money.cnn.com/2018/06/27/technology/google-duplex-demos/index.html\">Heather Kelly, writing for CNN</a>:</p>\n\n<blockquote>\n  <p>For one minute and ten seconds on Tuesday, I worked in a trendy\nhummus shop and took a reservation from a guy who punctuated his\nsentences with &#8220;awesome&#8221; and &#8220;um.&#8221;</p>\n\n<p>&#8220;Hi, I&#8217;m calling to make a reservation,&#8221; the caller said, sounding\na lot like a stereotypical California surfer. Then he came clean:\n&#8220;I&#8217;m Google&#8217;s automated booking service, so I&#8217;ll record the call.\nUm, can I book a table for Saturday?&#8221;</p>\n\n<p>The guy was Google Duplex, the AI-assisted assistant that made a\nstir in May when CEO Sundar Pichai unveiled it at its Google I/O\ndeveloper conference. That demo, shown in a slick video, was so\nimpressive that some people said it had to be fake.</p>\n\n<p>Not so, says Google, which invited clusters of reporters to Oren&#8217;s\nHummus Shop near its campus in Mountain View, for a hands-on\ndemonstration. Each of us got to field an automated call and test\nthe system&#8217;s limits.</p>\n</blockquote>\n\n<p>But, regarding the <a href=\"https://daringfireball.net/linked/2018/05/17/axios-duplex-demo\">curious recordings</a> played on stage at I/O in early May:</p>\n\n<blockquote>\n  <p>Scott Huffman, the VP of engineering for Google Assistant,\nconceded that the demo at I/O in May &#8220;maybe made it look a little\ntoo polished.&#8221; That&#8217;s because Pichai tends to focus on Google&#8217;s\ngrand visions for the future, Huffman said.</p>\n</blockquote>\n\n<p><a href=\"https://arstechnica.com/gadgets/2018/06/google-duplex-is-calling-we-talk-to-the-revolutionary-but-limited-phone-ai/\">Ron Amadeo, writing for Ars Technica</a>:</p>\n\n<blockquote>\n  <p>Unfortunately, Google would not let us record the live\ninteractions this week, but it did provide a video we&#8217;ve embedded\nbelow. The robo call in the video is, honestly, perfectly\nrepresentative of what we experienced. But to allay some of the\nskepticism out there, let&#8217;s first outline the specifics of how\nthis demo was set up along with what worked and what didn&#8217;t. [&#8230;]</p>\n\n<p>During the demonstration period, things went much more according\nto plan. Over the course of the event, we heard several calls,\nstart to finish, handled over a live phone system. To start, a\nGoogle rep went around the room and took reservation requirements\nfrom the group, things like &#8220;What time should the reservation be\nfor?&#8221; or &#8220;How many people?&#8221; Our requirements were punched into a\ncomputer, and the phone soon rang. Journalists &#8212; err, restaurant\nemployees &#8212; could dictate the direction of the call however they\nso choose. Some put in an effort to confuse Duplex and throw it\nsome curveballs, but this AI worked flawlessly within the very\nlimited scope of a restaurant reservation.</p>\n</blockquote>\n\n<p><a href=\"https://youtu.be/-qCanuYrR0g\">Here&#8217;s the video</a> Google has provided. It is indeed an impressive approximation of a human speaking. One thing that stands out, in fact, is the difference between the artificial voice of the Google Assistant on the woman&#8217;s phone &#8212; no um&#8217;s, no ah&#8217;s, robotically precise &#8212; and the decidedly un-robotic voice of Duplex on the phone call.</p>\n\n<p>Regarding the actual rollout to actual users, some unspecific number of &#8220;trusted testers&#8221; will get access to Duplex very soon, but only for asking about restaurant hours, <em>not</em> making reservations &#8212; and the haircut appointment feature has no delivery date other than &#8220;later&#8221; and wasn&#8217;t demonstrated to the media.</p>\n\n<p><a href=\"https://www.theverge.com/2018/6/27/17508728/google-duplex-assistant-reservations-demo\">Dieter Bohn, writing at The Verge</a>:</p>\n\n<blockquote>\n  <p>If you’re hoping that means you’ll be able to try it yourself,\nsorry: Google is starting with “a set of trusted tester users,”\naccording to Nick Fox, VP of product and design for the Google\nAssistant. It will also be limited to businesses that Google has\npartnered with rather than any old restaurant.</p>\n\n<p>The rollout will be phased, in other words. First up will be\ncalls about holiday hours, then restaurant reservations will come\nlater this summer, and then finally hair cut appointments will be\nlast. Those are the only three domains that Google has trained\nDuplex on.</p>\n</blockquote>\n\n<p>Bohn on the speech quality:</p>\n\n<blockquote>\n  <p>The more natural, human-sounding voice wasn’t there in the very\nfirst prototypes that Google built (amusingly, they worked by\nsetting a literal handset on the speaker on a laptop). According\nto VP of engineering for the Google Assistant Scott Huffman, “It\ndidn’t work. &#8230;. we got a lot of hangups, we got a lot of\nincompletion of the task. People didn’t deal well with how\nunnatural it sounded.”</p>\n\n<p>Part of making it sound natural enough to not trigger an aural\nsense of the uncanny valley was adding those ums and ahs, which\nHuffman identified as “speech disfluencies.” He emphasized that\nthey weren’t there to trick anybody, but because those vocal\ntics “play a key part in progressing a conversation between\nhumans.” He says it came from a well-known branch of linguistics\ncalled “pragmatics,” which encompasses all the non-word\ncommunications that happen in human speech: the ums, the ahs,\nthe hand gestures, etc.</p>\n</blockquote>\n\n<p>I&#8217;m on the fence regarding the issue of whether it is ethical for Duplex to speak in a way that sounds so human-like that the person on the other end of the call might never realize they&#8217;re speaking to a bot. What raises a flag are the injected imperfections. If they&#8217;re good for Duplex to use while making a call, why doesn&#8217;t Google Assistant speak similarly when you, the user, <em>know</em> you&#8217;re talking to a bot?</p>\n\n<p>The fact that they started getting fewer hangups when they added these natural-sounding imperfections makes sense. But it&#8217;s disingenuous to say they&#8217;re not using these um&#8217;s and ah&#8217;s to trick the person into thinking it&#8217;s a human. That&#8217;s exactly what they&#8217;re doing. The problem is, <em>tricking</em> sounds devious. I&#8217;m not sure it is in this case. It&#8217;s just making the person on the call more comfortable. We use &#8220;tricks&#8221; in all of our technology. Motion pictures, to name one example, don&#8217;t actually move &#8212; they&#8217;re just a series of still images played quickly enough to fool our eyes into seeing motion.</p>\n\n<p>With or without Duplex&#8217;s involvement, the restaurant is going to get a phone call for the reservation. (Duplex doesn&#8217;t make phone calls for restaurants that support online booking through OpenTable &#8212; at least not if the device user has an OpenTable account.) Based on these examples, Duplex doesn&#8217;t seem to waste the restaurant&#8217;s time &#8212; the phone calls take about the same time as they would if you, the human, made the call yourself. So neither the restaurant nor the employee who answers the phone lose anything when a call is made by Duplex, whether they realize they&#8217;re talking to an AI or not. No one is getting cheated, as in the case with, say, bots that play online poker.</p>\n\n<p>To me, the truly difficult ethical questions are years down the road, when these AI&#8217;s get close to passing an open-ended Turing test.</p>\n\n<p><a href=\"https://www.wired.com/story/google-duplex-gets-a-second-debut/\">Lauren Goode, writing at Wired</a>:</p>\n\n<blockquote>\n  <p>I then asked whether there were any allergies in the group. &#8220;OK,\nso, 7:30,&#8221; the bot said. &#8220;No, I can fit you in at 7:45,&#8221; I said.\nThe bot was confused. &#8220;7:30,&#8221; it said again. I also asked whether\nthey would need a high chair for any small children. Another voice\neventually interjected, and completed the reservation.</p>\n\n<p>I hung up the phone feeling somewhat triumphant; my stint in\ncollege as a host at a brew house had paid off, and I had asked a\nseries of questions that a bot, even a good one, couldn’t answer.\nIt was a win for humans. “In that case, the operator that\ncompleted the call &#8212; that wasn&#8217;t a human, right?” I asked\nNygaard. No, she said. That was a human who took over the call. I\nwas stunned; in the end, I was still a human who couldn’t\ndifferentiate between a voice powered by silicon and one born of\nflesh and blood.</p>\n</blockquote>\n\n<p>It&#8217;s a shame that Google wouldn&#8217;t release the recordings of the calls the journalists answered. Goode&#8217;s anecdote above, to me, is the most fascinating of the bunch, and I&#8217;d love to hear it. She was able to trip up the <em>logic</em> of Duplex by asking about allergies and high chairs, but was unable to discern when an actual human took over the call. Google&#8217;s breakthrough isn&#8217;t how smart Duplex is, but how human-like it sounds.</p>\n\n<p>I still think the whole thing feels like a demo of a technology (the human-like speech), not a product. Google claimed this week that Duplex currently succeeds 4 out of 5 times at placing a reservation <em>without</em> a human operator&#8217;s intervention. That&#8217;s a good batting average for a demo, but untenable for a shipping product at Google&#8217;s scale. With a 20 percent failure rate, Google would need an army of human operators standing by all day long, to support a feature they don&#8217;t make any money from. I&#8217;m skeptical that this will ever be a product expanded to wide use, and if it is, it might be <em>years</em> away. Google said as much <a href=\"https://arstechnica.com/gadgets/2018/06/google-duplex-is-calling-we-talk-to-the-revolutionary-but-limited-phone-ai/\">to Ars Technica</a>:</p>\n\n<blockquote>\n  <p>&#8220;We&#8217;re actually quite a long way from launch, that&#8217;s the key thing\nto understand,&#8221; Fox explained at the meeting. &#8220;This is super-early\ntechnology, somewhere between technology demo and product. We&#8217;re\ntalking about this way earlier than we typically talk about\nproducts.&#8221;</p>\n</blockquote>\n\n<p>Right now it feels like a feature in search of a product, but they pitched it as an imminent product at I/O because it made for a stunning demo. (It remains the only thing announced at I/O that anyone is talking about.) If what Google really wanted was just for Google Assistant to be able to make restaurant reservations, they&#8217;d be better off building an OpenTable competitor and giving it away to all these small businesses that don&#8217;t yet offer online reservations. I&#8217;m not holding my breath for Duplex ever to allow anyone to make a reservation at any establishment.</p>\n\n\n\n    "
+      },
+      {
+         "title" : "★ 10 Strikes and You’re Out — the iOS Feature You’re Probably Not Using But Should",
+         "date_published" : "2018-05-31T22:17:19Z",
+         "date_modified" : "2018-07-19T18:47:40Z",
+         "id" : "https://daringfireball.net/2018/05/10_strikes_and_youre_out",
+         "url" : "https://daringfireball.net/2018/05/10_strikes_and_youre_out",
+         "author" : {
+            "name" : "John Gruber"
+         },
+         "content_html" : "\n<p>For many years now, iOS has offered an option in the Passcode section of the Settings app: &#8220;Erase all data on this iPhone after 10 failed passcode attempts.&#8221;</p>\n\n<p>I&#8217;ve long been intrigued by this setting, but never turned it on, out of the vague fear that <em>something</em> could happen and I&#8217;d wind up with a wiped iPhone. Say, if a &#8220;friend&#8221; surreptitiously took my phone at a bar and entered 10 wrong passcodes as a prank. Something like that.</p>\n\n<p><a href=\"https://twitter.com/gruber/status/1000140798632087553\">I asked on Twitter over the weekend how many people use this feature</a>, and over 4,000 people responded to the poll. One-third use the feature, two-thirds don&#8217;t. Among those who don&#8217;t, the most common response, by far, is that they don&#8217;t use it because they&#8217;re the parents of young children, and they fear that their kids will trigger the erasure of their phone.</p>\n\n<p>I had no idea until I looked into it last weekend, but it turns out this feature is far more clever than I realized, and it&#8217;s highly unlikely that your kids or jackass drinking buddies could ever trigger it. After the 5th failed attempt, iOS requires a 1-minute timeout before you can try again. During this timeout the only thing you can do is place an emergency call to 911. After the 6th attempt, you get a 5-minute timeout. After the 7th, 15 minutes. These timeouts escalate such that it would take over <del>3 hours</del> to enter 10 incorrect passcodes.</p>\n\n<p>[<strong>Update:</strong> 3 hours is incorrect. According to Apple&#8217;s own <a href=\"https://www.apple.com/business/docs/iOS_Security_Guide.pdf\">iOS Security Guide</a> (page 15), it would take one hour and 36 minutes. Attempts 1-4 are &#8220;free&#8221;. There&#8217;s a 1-minute delay before the 5th attempt, 5 minutes before the 6th, 15 minutes before the 7th and 8th, and a 60-minute delay before the 10th.]</p>\n\n<p>It seems pretty clear from the responses to my poll that I wasn&#8217;t alone in thinking that this feature was more dangerous than it really is. I&#8217;ve got it turned on now, and I can&#8217;t think of a good reason why anyone <em>wouldn&#8217;t</em> enable this.</p>\n\n\n\n    "
+      }
+   ]
+}

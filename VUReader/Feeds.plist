@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string></string>
+	<key>Feed 1</key>
+	<dict>
+		<key>name</key>
+		<string>Daring Fireball</string>
+		<key>url</key>
+		<string>https://daringfireball.net/feeds/json</string>
+	</dict>
+    <key>Feed 1</key>
+    <dict>
+        <key>name</key>
+        <string>Daring Fireball</string>
+        <key>url</key>
+        <string>https://daringfireball.net/feeds/json</string>
+    </dict>
+    <key>Feed 2</key>
+    <dict>
+        <key>name</key>
+        <string>Flying Meat</string>
+        <key>url</key>
+        <string>http://flyingmeat.com/blog/feed.json</string>
+    </dict>
+    <key>Feed 3</key>
+    <dict>
+        <key>name</key>
+        <string>JSON Feed</string>
+        <key>url</key>
+        <string>https://jsonfeed.org/feed.json</string>
+    </dict>
+    <key>Feed 4</key>
+    <dict>
+        <key>name</key>
+        <string>Hypercritical</string>
+        <key>url</key>
+        <string>http://hypercritical.co/feeds/main.json</string>
+    </dict>
+    <key>Feed 5</key>
+    <dict>
+        <key>name</key>
+        <string>Manton Reece</string>
+        <key>url</key>
+        <string>https://manton.org/feed.json</string>
+    </dict>
+    <key>Feed 6</key>
+    <dict>
+        <key>name</key>
+        <string>inessential</string>
+        <key>url</key>
+        <string>http://inessential.com/feed.json</string>
+    </dict>
+    
+</dict>
+</plist>
